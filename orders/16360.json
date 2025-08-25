@@ -1,0 +1,450 @@
+{
+  "id": 16360,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-31T21:08:07",
+  "date_modified": "2025-08-05T14:44:28",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "492.00",
+  "total_tax": "0.00",
+  "customer_id": 559,
+  "order_key": "wc_order_6UImMEjs1r8YB",
+  "billing": {
+    "first_name": "HEITOR",
+    "last_name": "PEREIRA RAMOS",
+    "company": "",
+    "address_1": "Rua: GETÚLIO VARGAS",
+    "address_2": "",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79814-185",
+    "country": "BR",
+    "email": "hpramos@gmail.com",
+    "phone": "(67) 99989-4457",
+    "number": "615",
+    "neighborhood": "COHAB DOIS",
+    "persontype": "F",
+    "cpf": "90326059172",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99989-4457"
+  },
+  "shipping": {
+    "first_name": "HEITOR",
+    "last_name": "PEREIRA RAMOS",
+    "company": "",
+    "address_1": "Rua: GETÚLIO VARGAS",
+    "address_2": "",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79814-185",
+    "country": "BR",
+    "phone": "",
+    "number": "615",
+    "neighborhood": "COHAB DOIS"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "179.252.5.70",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-05T14:44:28",
+  "date_paid": "2025-08-05T14:44:28",
+  "cart_hash": "4a3a6f5c70823b6e28a83af8d7cb9639",
+  "number": "16360",
+  "meta_data": [
+    {
+      "id": 793148,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 793149,
+      "key": "_billing_cpf",
+      "value": "903.260.591-72"
+    },
+    {
+      "id": 793150,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 793151,
+      "key": "_billing_neighborhood",
+      "value": "COHAB DOIS"
+    },
+    {
+      "id": 793152,
+      "key": "_billing_number",
+      "value": "615"
+    },
+    {
+      "id": 793153,
+      "key": "_billing_cellphone",
+      "value": "(67) 99989-4457"
+    },
+    {
+      "id": 793154,
+      "key": "_shipping_number",
+      "value": "615"
+    },
+    {
+      "id": 793155,
+      "key": "_shipping_neighborhood",
+      "value": "COHAB DOIS"
+    },
+    {
+      "id": 793156,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 793157,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 793158,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 793159,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 793160,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 793161,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 793162,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 793163,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 793164,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-31 23:50:53"
+    },
+    {
+      "id": 793165,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "8"
+    },
+    {
+      "id": 793166,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 793167,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 793168,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    {
+      "id": 793169,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 793170,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 49200,
+        "currency": "BRL",
+        "order_id": "16360",
+        "status": "APPROVED",
+        "payment_id": "b53b5000-70f1-4217-b449-9a72201da4be",
+        "received_at": "2025-08-01T01:08:08.543Z",
+        "credit": {
+          "authorization_code": "507009763082231625",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "mastercard",
+          "terminal_nsu": "730324",
+          "acquirer_transaction_id": "000229654355",
+          "transaction_id": "507009763082231625",
+          "delayed": false,
+          "authorized_at": "2025-08-01T01:08:08Z"
+        }
+      }
+    },
+    {
+      "id": 793171,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "KARINE V F RAMOS"
+    },
+    {
+      "id": 793172,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "90326059172"
+    },
+    {
+      "id": 793173,
+      "key": "_card_number",
+      "value": "550209****3583"
+    },
+    {
+      "id": 793174,
+      "key": "_card_bin",
+      "value": "550209****3583"
+    },
+    {
+      "id": 793175,
+      "key": "_card_year",
+      "value": "29"
+    },
+    {
+      "id": 793176,
+      "key": "_card_month",
+      "value": "06"
+    },
+    {
+      "id": 793177,
+      "key": "_card_name",
+      "value": "KARINE V F RAMOS"
+    },
+    {
+      "id": 793178,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 793964,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 793965,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 793966,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 793967,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754399446,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 793968,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754399446"
+    },
+    {
+      "id": 793969,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-05 09:10:46"
+    },
+    {
+      "id": 793970,
+      "key": "_wcpdf_invoice_number",
+      "value": "1077"
+    },
+    {
+      "id": 793971,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1077,
+        "formatted_number": "1077",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16360,
+        "padding": null
+      }
+    },
+    {
+      "id": 794615,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799043,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57922,
+      "name": "SIE - Fundamental II - 6º Ano - 2º Semestre",
+      "product_id": 3545,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "492.00",
+      "subtotal_tax": "0.00",
+      "total": "492.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520095,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "11133",
+      "global_unique_id": "",
+      "price": 492,
+      "image": {
+        "id": "3556",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-4-scaled.jpg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57923,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384.",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519784,
+          "key": "Itens",
+          "value": "SIE - Fundamental II - 6º Ano - 2º Semestre &times; 1",
+          "display_key": "Itens",
+          "display_value": "SIE - Fundamental II - 6º Ano - 2º Semestre &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16360/?pay_for_order=true&key=wc_order_6UImMEjs1r8YB",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-01T01:08:07",
+  "date_modified_gmt": "2025-08-05T18:44:28",
+  "date_completed_gmt": "2025-08-05T18:44:28",
+  "date_paid_gmt": "2025-08-05T18:44:28",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16360",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16360/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/559"
+      }
+    ]
+  }
+}

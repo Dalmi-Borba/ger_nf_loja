@@ -1,0 +1,427 @@
+{
+  "id": 16380,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-05T15:01:15",
+  "date_modified": "2025-08-06T15:15:02",
+  "discount_total": "98.40",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "393.60",
+  "total_tax": "0.00",
+  "customer_id": 5290,
+  "order_key": "wc_order_iuwHNylfcfryM",
+  "billing": {
+    "first_name": "Stephanie",
+    "last_name": "Martinez Santos Rocha",
+    "company": "",
+    "address_1": "Rua redentor",
+    "address_2": "Casa",
+    "city": "Nova andradina",
+    "state": "MS",
+    "postcode": "79756-092",
+    "country": "BR",
+    "email": "stephaniemartinezsantosrocha@gmail.com",
+    "phone": "(67) 99669-5708",
+    "number": "1947",
+    "neighborhood": "São Vicente",
+    "persontype": "F",
+    "cpf": "09753360100",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99669-5708"
+  },
+  "shipping": {
+    "first_name": "Stephanie",
+    "last_name": "Martinez Santos Rocha",
+    "company": "",
+    "address_1": "Rua redentor",
+    "address_2": "Casa",
+    "city": "Nova andradina",
+    "state": "MS",
+    "postcode": "79756-092",
+    "country": "BR",
+    "phone": "",
+    "number": "1947",
+    "neighborhood": "São Vicente"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "200.124.65.193",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/28.0 Chrome/130.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-06T15:15:02",
+  "date_paid": "2025-08-06T15:15:02",
+  "cart_hash": "4617668acd10b01915449ca07cf92cc9",
+  "number": "16380",
+  "meta_data": [
+    {
+      "id": 794674,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 794675,
+      "key": "_billing_cpf",
+      "value": "097.533.601-00"
+    },
+    {
+      "id": 794676,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 794677,
+      "key": "_billing_neighborhood",
+      "value": "São Vicente"
+    },
+    {
+      "id": 794678,
+      "key": "_billing_number",
+      "value": "1947"
+    },
+    {
+      "id": 794679,
+      "key": "_billing_cellphone",
+      "value": "(67) 99669-5708"
+    },
+    {
+      "id": 794680,
+      "key": "_shipping_number",
+      "value": "1947"
+    },
+    {
+      "id": 794681,
+      "key": "_shipping_neighborhood",
+      "value": "São Vicente"
+    },
+    {
+      "id": 794684,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 794685,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 794686,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 794687,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 794688,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 794689,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 794690,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-05 18:46:01"
+    },
+    {
+      "id": 794691,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "9"
+    },
+    {
+      "id": 794692,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 794693,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) SamsungBrowser/28.0 Chrome/130.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 794694,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 794695,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825768139417",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/18b1cdc8-7594-4939-b3ac-e4d2c8769c815204821153039865406393.605802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630457C5",
+          "creation_date_qrcode": "2025-08-05T16:01:16Z",
+          "expiration_date_qrcode": "2025-08-05T16:04:16Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "b5989792-9c65-484c-82ad-8d4878cf2273",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 794696,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825768139417",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/18b1cdc8-7594-4939-b3ac-e4d2c8769c815204821153039865406393.605802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630457C5",
+          "creation_date_qrcode": "2025-08-05T16:01:16Z",
+          "expiration_date_qrcode": "2025-08-05T16:04:16Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "b5989792-9c65-484c-82ad-8d4878cf2273",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 794697,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 794699,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 794725,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 794726,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 794727,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 794728,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754424587,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 794729,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754424587"
+    },
+    {
+      "id": 794730,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-05 16:09:47"
+    },
+    {
+      "id": 794731,
+      "key": "_wcpdf_invoice_number",
+      "value": "1089"
+    },
+    {
+      "id": 794732,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1089,
+        "formatted_number": "1089",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16380,
+        "padding": null
+      }
+    },
+    {
+      "id": 799027,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57957,
+      "name": "SIE - Fundamental II - 7º Ano - 2º Semestre",
+      "product_id": 3575,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "492.00",
+      "subtotal_tax": "0.00",
+      "total": "393.60",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520275,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "107066",
+      "global_unique_id": "",
+      "price": 393.6,
+      "image": {
+        "id": "3586",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-5-scaled.jpg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57958,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384.",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 520112,
+          "key": "Itens",
+          "value": "SIE - Fundamental II - 7º Ano - 2º Semestre &times; 1",
+          "display_key": "Itens",
+          "display_value": "SIE - Fundamental II - 7º Ano - 2º Semestre &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [
+    {
+      "id": 57959,
+      "code": "09753360100",
+      "discount": "98.4",
+      "discount_tax": "0",
+      "meta_data": [
+        {
+          "id": 520115,
+          "key": "coupon_info",
+          "value": "[16372,\"09753360100\",\"percent\",20]",
+          "display_key": "coupon_info",
+          "display_value": "[16372,\"09753360100\",\"percent\",20]"
+        }
+      ],
+      "discount_type": "percent",
+      "nominal_amount": 20,
+      "free_shipping": false
+    }
+  ],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16380/?pay_for_order=true&key=wc_order_iuwHNylfcfryM",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-05T19:01:15",
+  "date_modified_gmt": "2025-08-06T19:15:02",
+  "date_completed_gmt": "2025-08-06T19:15:02",
+  "date_paid_gmt": "2025-08-06T19:15:02",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16380",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16380/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/5290"
+      }
+    ]
+  }
+}

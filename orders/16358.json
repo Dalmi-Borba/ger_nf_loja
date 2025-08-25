@@ -1,0 +1,498 @@
+{
+  "id": 16358,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-31T19:31:51",
+  "date_modified": "2025-08-05T14:02:08",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "34.22",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "302.22",
+  "total_tax": "0.00",
+  "customer_id": 5285,
+  "order_key": "wc_order_y95icly8MVVv6",
+  "billing": {
+    "first_name": "Michelle Cristina Ribeiro Tupan Oieri",
+    "last_name": "Oieri",
+    "company": "",
+    "address_1": "R: Oliveira Marques",
+    "address_2": "Ed. Carajás , sala 2 aos c/ de Juliano",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79805-021",
+    "country": "BR",
+    "email": "michelle@oieri.com.br",
+    "phone": "(67) 99330-8988",
+    "number": "1676",
+    "neighborhood": "Centro",
+    "persontype": "F",
+    "cpf": "98301977191",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 9933-0898"
+  },
+  "shipping": {
+    "first_name": "Michelle Cristina Ribeiro Tupan Oieri",
+    "last_name": "Oieri",
+    "company": "",
+    "address_1": "R: Oliveira Marques",
+    "address_2": "Ed. Carajás , sala 2 aos c/ de Juliano",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79805-021",
+    "country": "BR",
+    "phone": "",
+    "number": "1676",
+    "neighborhood": "Centro"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "179.220.24.98",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-05T14:02:08",
+  "date_paid": "2025-08-05T14:02:08",
+  "cart_hash": "d37f290fb1977fa60c3957b5335b21d2",
+  "number": "16358",
+  "meta_data": [
+    {
+      "id": 793007,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 793008,
+      "key": "_billing_cpf",
+      "value": "983.019.771-91"
+    },
+    {
+      "id": 793009,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 793010,
+      "key": "_billing_neighborhood",
+      "value": "Centro"
+    },
+    {
+      "id": 793011,
+      "key": "_billing_number",
+      "value": "1676"
+    },
+    {
+      "id": 793012,
+      "key": "_billing_cellphone",
+      "value": "(67) 9933-0898"
+    },
+    {
+      "id": 793013,
+      "key": "_shipping_number",
+      "value": "1676"
+    },
+    {
+      "id": 793014,
+      "key": "_shipping_neighborhood",
+      "value": "Centro"
+    },
+    {
+      "id": 793015,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 793016,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 793017,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 793018,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 793019,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 793020,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 793021,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-31 23:09:47"
+    },
+    {
+      "id": 793022,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "13"
+    },
+    {
+      "id": 793023,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 793024,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 793025,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 793026,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 793027,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 30222,
+        "currency": "BRL",
+        "order_id": "16358",
+        "status": "APPROVED",
+        "payment_id": "e272f12c-0712-4b78-8064-7b85c5cb53b5",
+        "received_at": "2025-07-31T23:31:54.172Z",
+        "credit": {
+          "authorization_code": "507668024312031637",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "visa",
+          "terminal_nsu": "000093",
+          "acquirer_transaction_id": "000202317737",
+          "transaction_id": "507668024312031637",
+          "delayed": false,
+          "authorized_at": "2025-07-31T23:31:54Z"
+        }
+      }
+    },
+    {
+      "id": 793028,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "Michelle Oieri"
+    },
+    {
+      "id": 793029,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "98301977191"
+    },
+    {
+      "id": 793030,
+      "key": "_card_number",
+      "value": "415274****4112"
+    },
+    {
+      "id": 793031,
+      "key": "_card_bin",
+      "value": "415274****4112"
+    },
+    {
+      "id": 793032,
+      "key": "_card_year",
+      "value": "27"
+    },
+    {
+      "id": 793033,
+      "key": "_card_month",
+      "value": "11"
+    },
+    {
+      "id": 793034,
+      "key": "_card_name",
+      "value": "Michelle Oieri"
+    },
+    {
+      "id": 793948,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 793949,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 793950,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 793951,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754399446,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 793952,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754399446"
+    },
+    {
+      "id": 793953,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-05 09:10:46"
+    },
+    {
+      "id": 793954,
+      "key": "_wcpdf_invoice_number",
+      "value": "1075"
+    },
+    {
+      "id": 793955,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1075,
+        "formatted_number": "1075",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16358,
+        "padding": null
+      }
+    },
+    {
+      "id": 794362,
+      "key": "woe_order_exported",
+      "value": "1754402214"
+    },
+    {
+      "id": 794441,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799045,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57917,
+      "name": "Calça de Malha Unissex - M",
+      "product_id": 3020,
+      "variation_id": 3031,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "198.00",
+      "subtotal_tax": "0.00",
+      "total": "198.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519734,
+          "key": "tamanho",
+          "value": "M",
+          "display_key": "Tamanho",
+          "display_value": "M"
+        },
+        {
+          "id": 520065,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "108560",
+      "global_unique_id": "",
+      "price": 99,
+      "image": {
+        "id": 3037,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Calca-Malha-Unissex-ok-scaled.jpg"
+      },
+      "parent_name": "Calça de Malha Unissex"
+    },
+    {
+      "id": 57918,
+      "name": "Bermuda de Malha Unissex - Ens. Fund. e Médio - M",
+      "product_id": 3151,
+      "variation_id": 3162,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "70.00",
+      "subtotal_tax": "0.00",
+      "total": "70.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519744,
+          "key": "tamanho",
+          "value": "M",
+          "display_key": "Tamanho",
+          "display_value": "M"
+        },
+        {
+          "id": 520066,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108665",
+      "global_unique_id": "",
+      "price": 70,
+      "image": {
+        "id": 3168,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/bermuda-malha-1-scaled.jpg"
+      },
+      "parent_name": "Bermuda de Malha Unissex - Ens. Fund. e Médio"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57919,
+      "method_title": "Sedex - Até 15 dias úteis.",
+      "method_id": "loja5-correios-sedex-03220",
+      "instance_id": "51",
+      "total": "34.22",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519750,
+          "key": "prazo_correios",
+          "value": "2",
+          "display_key": "prazo_correios",
+          "display_value": "2"
+        },
+        {
+          "id": 519751,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 519752,
+          "key": "delivery_time",
+          "value": "(2 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(2 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16358/?pay_for_order=true&key=wc_order_y95icly8MVVv6",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-07-31T23:31:51",
+  "date_modified_gmt": "2025-08-05T18:02:08",
+  "date_completed_gmt": "2025-08-05T18:02:08",
+  "date_paid_gmt": "2025-08-05T18:02:08",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16358",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16358/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/5285"
+      }
+    ]
+  }
+}

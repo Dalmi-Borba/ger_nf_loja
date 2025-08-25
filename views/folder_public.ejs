@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Pasta Public</title>
+  <style>
+    body { font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; margin: 20px; }
+    h1 { margin: 0 0 12px; }
+    form { margin-bottom: 16px; }
+    table { width: 100%; border-collapse: collapse; }
+    th, td { border-bottom: 1px solid #e5e7eb; padding: 8px 10px; text-align: left; }
+    thead th { border-bottom: 2px solid #d1d5db; }
+    .actions { display: flex; gap: 8px; align-items: center; margin-top: 8px; }
+    .btn { padding: 8px 12px; border: 1px solid #d1d5db; border-radius: 8px; background: #fff; cursor: pointer; }
+    .btn[disabled] { opacity: .5; cursor: not-allowed; }
+  </style>
+</head>
+<body>
+  <h1>Pasta Public</h1>
+  <a href="/">Home</a>
+  <br> <br>
+  <!-- Upload -->
+  <form action="/folder_public/upload" method="post" enctype="multipart/form-data">
+    <input type="file" name="files" multiple required />
+    <button class="btn" type="submit">Enviar</button>
+  </form>
+
+  <hr/>
+
+  <!-- Exclusão em massa -->
+  <form id="bulkDeleteForm" action="/folder_public/delete" method="post">
+    <table>
+      <thead>
+        <tr>
+          <th style="width:36px;">
+            <input type="checkbox" id="checkAll" title="Selecionar todos"/>
+          </th>
+          <th>Nome</th>
+          <th style="width:220px;">Ações</th>
+        </tr>
+      </thead>
+      <tbody>
+        <% if (files && files.length) { %>
+          <% files.forEach(file => { %>
+            <tr>
+              <td>
+                <input class="rowCheck" type="checkbox" name="toDelete" value="<%= file %>" />
+              </td>
+              <td><%= file %></td>
+              <td>
+                <a href="/public/<%= encodeURIComponent(file) %>" download>Download</a>
+                &nbsp;|&nbsp;
+                <a href="/folder_public/delete/<%= encodeURIComponent(file) %>">Excluir</a>
+              </td>
+            </tr>
+          <% }) %>
+        <% } else { %>
+          <tr><td colspan="3">Nenhum arquivo encontrado.</td></tr>
+        <% } %>
+      </tbody>
+    </table>
+
+    <div class="actions">
+      <button class="btn" id="btnDelete" type="submit" disabled>
+        Excluir selecionados (<span id="count">0</span>)
+      </button>
+      <small id="hint"></small>
+    </div>
+  </form>
+
+  <script>
+    (function () {
+      const checkAll = document.getElementById('checkAll');
+      const rowChecks = Array.from(document.querySelectorAll('.rowCheck'));
+      const btnDelete = document.getElementById('btnDelete');
+      const countEl   = document.getElementById('count');
+      const hintEl    = document.getElementById('hint');
+
+      function updateUI() {
+        const n = rowChecks.filter(c => c.checked).length;
+        countEl.textContent = n;
+        btnDelete.disabled = n === 0;
+        hintEl.textContent = n ? 'Arquivos selecionados serão removidos definitivamente.' : '';
+      }
+
+      checkAll?.addEventListener('change', (e) => {
+        rowChecks.forEach(c => c.checked = e.target.checked);
+        updateUI();
+      });
+
+      rowChecks.forEach(c => c.addEventListener('change', () => {
+        // Se algum for desmarcado, tira o "todos" do header
+        if (!c.checked && checkAll) checkAll.checked = false;
+        updateUI();
+      }));
+
+      updateUI();
+    })();
+  </script>
+</body>
+</html>

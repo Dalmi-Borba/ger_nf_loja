@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gerenciador de Notas Fiscais</title>
+</head>
+<%- include('./partials/styles'); %>
+<body>
+    <header>
+        <span>Gerenciador de Notas Fiscais</span>
+        <%- include('./partials/nav'); %>
+    </header>
+    <div class="container">
+        <% 
+            let conteudo = '';
+            const pasta = path_public;
+            notas.forEach(nota => {
+                //merge pdf
+                //conteudo += `NF_0000${nota.numero_nota},${nota.cpf_cnpj},`;
+                // nf - pedido - tipo pagto - hist - local arquivo
+                conteudo += `${pasta}NF_0000${nota.numero_nota}.pdf,`;
+                
+                if (nota.metodo_pagamento == 'Cartão de Crédito' && nota.order_id != null) {
+                    conteudo += `${pasta}${nota.order_id}.pdf, \n`;
+                    return;
+                };
+
+                if (nota.metodo_pagamento == 'Pix' && nota.order_id != null) {
+                    conteudo += `${pasta}${nota.order_id}.pdf,`;
+                };
+                //conteudo += `${nota.order_id},`;
+                conteudo += `${pasta}ext_${nota.numero_nota}.pdf, \n`;
+
+            });
+        %>
+        <div class="container center">
+            <p>*lembre de adicionar as NFs na pasta</p>
+            <form action="/merge" method="post">
+                <input type="text" name="dirs" value="<%= conteudo %>">
+                <input type="submit" value="Gerar PDF">
+            </form>
+        </div>
+    </div>
+</body>
+</html>

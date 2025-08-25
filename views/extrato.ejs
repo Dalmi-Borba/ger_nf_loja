@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Extrato Bancário</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #f4f4f4;
+        }
+        .container {
+            max-width: 900px;
+            margin: 0 auto;
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            font-size: 14px;
+        }
+        table th, table td {
+            padding: 10px;
+            text-align: left;
+            border-bottom: 1px solid #ddd;
+        }
+        table th {
+            background-color: #f5f5f5;
+            font-weight: bold;
+            color: #333;
+        }
+        table td {
+            color: #666;
+        }
+        table tr:nth-child(even) {
+            background-color: #fafafa;
+        }
+        table tr:hover {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <table>
+            <thead>
+                <tr>
+                    <th>Data</th>
+                    <th>Histórico</th>
+                    <th>Documento</th>
+                    <th>Valor (R$)</th>
+                    <th>Saldo (R$)</th>
+                </tr>
+            </thead>
+            <tbody>
+                <% for (const row of rows) { %>
+                    <tr <% if (parseInt(row.id) === parseInt(rowId)) { %> style="background-color: yellow !important;" <% } %>>
+                        <td><%= row.data %></td>
+                        <td><%= row.descricao %></td>
+                        <td>00000</td>
+                        <td><%= Intl.NumberFormat('pt-BR', { minimumFractionDigits: 2,maximumFractionDigits: 2 }).format(row.valor) %></td>
+                        <td><%= row.saldo %></td>
+                    </tr>
+                <% } %>
+            </tbody>
+        </table>
+    </div>
+</body>
+</html>

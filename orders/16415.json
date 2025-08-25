@@ -1,0 +1,461 @@
+{
+  "id": 16415,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-12T10:56:13",
+  "date_modified": "2025-08-13T15:52:43",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "28.77",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "325.77",
+  "total_tax": "0.00",
+  "customer_id": 94,
+  "order_key": "wc_order_c7yoRgiE3wrIq",
+  "billing": {
+    "first_name": "Charles",
+    "last_name": "Wolobueff da Silva Catellan",
+    "company": "",
+    "address_1": "Rua Abílio de Mattos pedroso",
+    "address_2": "Casa 493",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79822-340",
+    "country": "BR",
+    "email": "eugeniocharles@gmail.com",
+    "phone": "(67) 99911-7776",
+    "number": "1735",
+    "neighborhood": "Jardim novo horizonte",
+    "persontype": "F",
+    "cpf": "00215568141",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99911-7776"
+  },
+  "shipping": {
+    "first_name": "Charles",
+    "last_name": "Wolobueff da Silva Catellan",
+    "company": "",
+    "address_1": "Rua Abílio de Mattos pedroso",
+    "address_2": "Casa 493",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79822-340",
+    "country": "BR",
+    "phone": "",
+    "number": "1735",
+    "neighborhood": "Jardim novo horizonte"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "177.79.22.211",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-13T15:52:43",
+  "date_paid": "2025-08-13T15:52:43",
+  "cart_hash": "1da11673f6eb491c4b8c8c1fb5fdfaa5",
+  "number": "16415",
+  "meta_data": [
+    {
+      "id": 796937,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 796938,
+      "key": "_billing_cpf",
+      "value": "002.155.681-41"
+    },
+    {
+      "id": 796939,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 796940,
+      "key": "_billing_neighborhood",
+      "value": "Jardim novo horizonte"
+    },
+    {
+      "id": 796941,
+      "key": "_billing_number",
+      "value": "1735"
+    },
+    {
+      "id": 796942,
+      "key": "_billing_cellphone",
+      "value": "(67) 99911-7776"
+    },
+    {
+      "id": 796943,
+      "key": "_shipping_number",
+      "value": "1735"
+    },
+    {
+      "id": 796944,
+      "key": "_shipping_neighborhood",
+      "value": "Jardim novo horizonte"
+    },
+    {
+      "id": 796945,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 796946,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 796947,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 796948,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 796949,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 796950,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 796951,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 796952,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 796953,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-12 14:46:28"
+    },
+    {
+      "id": 796954,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "10"
+    },
+    {
+      "id": 796955,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 796956,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 796957,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 796958,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 796959,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 32577,
+        "currency": "BRL",
+        "order_id": "16415",
+        "status": "APPROVED",
+        "payment_id": "f8829ace-2396-43ef-a56d-199b9224fd1e",
+        "received_at": "2025-08-12T14:56:15.447Z",
+        "credit": {
+          "authorization_code": "508119035561112623",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "visa",
+          "terminal_nsu": "661587",
+          "acquirer_transaction_id": "000115355023",
+          "transaction_id": "508119035561112623",
+          "delayed": false,
+          "authorized_at": "2025-08-12T14:56:15Z"
+        }
+      }
+    },
+    {
+      "id": 796960,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "EUGENIO C WOLOBUEFF"
+    },
+    {
+      "id": 796961,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "00215568141"
+    },
+    {
+      "id": 796962,
+      "key": "_card_number",
+      "value": "453211****0215"
+    },
+    {
+      "id": 796963,
+      "key": "_card_bin",
+      "value": "453211****0215"
+    },
+    {
+      "id": 796964,
+      "key": "_card_year",
+      "value": "32"
+    },
+    {
+      "id": 796965,
+      "key": "_card_month",
+      "value": "11"
+    },
+    {
+      "id": 796966,
+      "key": "_card_name",
+      "value": "EUGENIO C WOLOBUEFF"
+    },
+    {
+      "id": 796967,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 796969,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 796970,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 796971,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "single"
+    },
+    {
+      "id": 796972,
+      "key": "_wcpdf_invoice_date",
+      "value": "1755025792"
+    },
+    {
+      "id": 796973,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-12 15:09:52"
+    },
+    {
+      "id": 796974,
+      "key": "_wcpdf_invoice_number",
+      "value": "1111"
+    },
+    {
+      "id": 796975,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1111,
+        "formatted_number": "1111",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16415,
+        "padding": null
+      }
+    },
+    {
+      "id": 797330,
+      "key": "woe_order_exported",
+      "value": "1755098826"
+    },
+    {
+      "id": 797400,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799005,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58072,
+      "name": "SIE - Fundamental I - 4º Ano - 2º Semestre",
+      "product_id": 3478,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "297.00",
+      "subtotal_tax": "0.00",
+      "total": "297.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521284,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "8566",
+      "global_unique_id": "",
+      "price": 297,
+      "image": {
+        "id": "3490",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-2-scaled.jpg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58073,
+      "method_title": "PAC - Até 22 dias úteis",
+      "method_id": "loja5-correios-pac-03298",
+      "instance_id": "45",
+      "total": "28.77",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 521200,
+          "key": "prazo_correios",
+          "value": "5",
+          "display_key": "prazo_correios",
+          "display_value": "5"
+        },
+        {
+          "id": 521201,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 521202,
+          "key": "delivery_time",
+          "value": "(5 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(5 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16415/?pay_for_order=true&key=wc_order_c7yoRgiE3wrIq",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-12T14:56:13",
+  "date_modified_gmt": "2025-08-13T19:52:43",
+  "date_completed_gmt": "2025-08-13T19:52:43",
+  "date_paid_gmt": "2025-08-13T19:52:43",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16415",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16415/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/94"
+      }
+    ]
+  }
+}

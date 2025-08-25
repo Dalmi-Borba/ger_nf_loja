@@ -1,0 +1,427 @@
+{
+  "id": 16324,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-28T15:28:42",
+  "date_modified": "2025-07-31T09:38:18",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "36.69",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "424.69",
+  "total_tax": "0.00",
+  "customer_id": 5273,
+  "order_key": "wc_order_G5Ct6ZzswkkSH",
+  "billing": {
+    "first_name": "alexandre",
+    "last_name": "vicente bezerra adomaitis",
+    "company": "",
+    "address_1": "rua são francisco, 60",
+    "address_2": "",
+    "city": "dourados",
+    "state": "MS",
+    "postcode": "79814-430",
+    "country": "BR",
+    "email": "axel79ms@gmail.com",
+    "phone": "(67) 99612-9950",
+    "number": "60",
+    "neighborhood": "jardim independência",
+    "persontype": "F",
+    "cpf": "89201876149",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99612-9950"
+  },
+  "shipping": {
+    "first_name": "alexandre",
+    "last_name": "vicente bezerra adomaitis",
+    "company": "",
+    "address_1": "rua são francisco, 60",
+    "address_2": "",
+    "city": "dourados",
+    "state": "MS",
+    "postcode": "79814-430",
+    "country": "BR",
+    "phone": "",
+    "number": "60",
+    "neighborhood": "jardim independência"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "200.181.118.99",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-07-31T09:38:18",
+  "date_paid": "2025-07-31T09:38:18",
+  "cart_hash": "ea584d31095a4181e41ab4e40efcb90e",
+  "number": "16324",
+  "meta_data": [
+    {
+      "id": 790411,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 790412,
+      "key": "_billing_cpf",
+      "value": "892.018.761-49"
+    },
+    {
+      "id": 790413,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 790414,
+      "key": "_billing_neighborhood",
+      "value": "jardim independência"
+    },
+    {
+      "id": 790415,
+      "key": "_billing_number",
+      "value": "60"
+    },
+    {
+      "id": 790416,
+      "key": "_billing_cellphone",
+      "value": "(67) 99612-9950"
+    },
+    {
+      "id": 790417,
+      "key": "_shipping_number",
+      "value": "60"
+    },
+    {
+      "id": 790418,
+      "key": "_shipping_neighborhood",
+      "value": "jardim independência"
+    },
+    {
+      "id": 790419,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 790420,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 790421,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 790422,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 790423,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 790424,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/fundamental-1-dourados/"
+    },
+    {
+      "id": 790425,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-28 19:04:03"
+    },
+    {
+      "id": 790426,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "36"
+    },
+    {
+      "id": 790427,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 790428,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 790429,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    {
+      "id": 790430,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825758132499",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/ee2292d5-14a6-4593-a93f-27ff5516550a5204821153039865406424.695802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***6304730F",
+          "creation_date_qrcode": "2025-07-28T16:28:44Z",
+          "expiration_date_qrcode": "2025-07-28T16:31:44Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "91abbcbe-456d-4c09-97c7-538e93a6052a",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 790431,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825758132499",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/ee2292d5-14a6-4593-a93f-27ff5516550a5204821153039865406424.695802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***6304730F",
+          "creation_date_qrcode": "2025-07-28T16:28:44Z",
+          "expiration_date_qrcode": "2025-07-28T16:31:44Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "91abbcbe-456d-4c09-97c7-538e93a6052a",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 790432,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 791757,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 791758,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 791759,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 791760,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1753902519,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 791761,
+      "key": "_wcpdf_invoice_date",
+      "value": "1753902519"
+    },
+    {
+      "id": 791762,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-07-30 15:08:39"
+    },
+    {
+      "id": 791763,
+      "key": "_wcpdf_invoice_number",
+      "value": "1049"
+    },
+    {
+      "id": 791764,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1049,
+        "formatted_number": "1049",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16324,
+        "padding": null
+      }
+    },
+    {
+      "id": 792304,
+      "key": "woe_order_exported",
+      "value": "1753953960"
+    },
+    {
+      "id": 792323,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799077,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57812,
+      "name": "SIE - Fundamental I - 3º Ano - 2º Semestre",
+      "product_id": 3463,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "388.00",
+      "subtotal_tax": "0.00",
+      "total": "388.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 518800,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "377831",
+      "global_unique_id": "",
+      "price": 388,
+      "image": {
+        "id": "12089",
+        "src": "https://ntstorems.com.br/wp-content/uploads/3ano_2sem-1.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57813,
+      "method_title": "Sedex - Até 15 dias úteis.",
+      "method_id": "loja5-correios-sedex-03220",
+      "instance_id": "49",
+      "total": "36.69",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 518797,
+          "key": "prazo_correios",
+          "value": "2",
+          "display_key": "prazo_correios",
+          "display_value": "2"
+        },
+        {
+          "id": 518798,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 518799,
+          "key": "delivery_time",
+          "value": "(2 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(2 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16324/?pay_for_order=true&key=wc_order_G5Ct6ZzswkkSH",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-07-28T19:28:42",
+  "date_modified_gmt": "2025-07-31T13:38:18",
+  "date_completed_gmt": "2025-07-31T13:38:18",
+  "date_paid_gmt": "2025-07-31T13:38:18",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16324",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16324/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/5273"
+      }
+    ]
+  }
+}

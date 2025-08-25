@@ -1,0 +1,481 @@
+{
+  "id": 16346,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-30T22:59:15",
+  "date_modified": "2025-08-05T14:01:57",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "34.22",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "146.22",
+  "total_tax": "0.00",
+  "customer_id": 3410,
+  "order_key": "wc_order_ksJzVjWJkyYfn",
+  "billing": {
+    "first_name": "Izaque",
+    "last_name": "Lemos",
+    "company": "",
+    "address_1": "Rua Major Capile",
+    "address_2": "CASA 3",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79833-040",
+    "country": "BR",
+    "email": "minharadio17@gmail.com",
+    "phone": "(67) 98422-2974",
+    "number": "5038",
+    "neighborhood": "Vila São Francisco",
+    "persontype": "F",
+    "cpf": "06812318159",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 98422-2974"
+  },
+  "shipping": {
+    "first_name": "Izaque",
+    "last_name": "Lemos",
+    "company": "",
+    "address_1": "Rua Major Capile",
+    "address_2": "CASA 3",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79833-040",
+    "country": "BR",
+    "phone": "",
+    "number": "5038",
+    "neighborhood": "Vila São Francisco"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "187.43.174.189",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-05T14:01:57",
+  "date_paid": "2025-08-05T14:01:57",
+  "cart_hash": "4239e32efd70e4efc9bbe581c3500a66",
+  "number": "16346",
+  "meta_data": [
+    {
+      "id": 792042,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 792043,
+      "key": "_billing_cpf",
+      "value": "068.123.181-59"
+    },
+    {
+      "id": 792044,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 792045,
+      "key": "_billing_neighborhood",
+      "value": "Vila São Francisco"
+    },
+    {
+      "id": 792046,
+      "key": "_billing_number",
+      "value": "5038"
+    },
+    {
+      "id": 792047,
+      "key": "_billing_cellphone",
+      "value": "(67) 98422-2974"
+    },
+    {
+      "id": 792048,
+      "key": "_shipping_number",
+      "value": "5038"
+    },
+    {
+      "id": 792049,
+      "key": "_shipping_neighborhood",
+      "value": "Vila São Francisco"
+    },
+    {
+      "id": 792050,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 792051,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 792052,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 792053,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 792054,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 792055,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 792056,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 792057,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 792058,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-31 02:44:07"
+    },
+    {
+      "id": 792059,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "29"
+    },
+    {
+      "id": 792060,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 792061,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 792062,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 792063,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825760964416",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/896f4970-c962-44ba-abff-e3e81a481fc95204821153039865406146.225802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***63040651",
+          "creation_date_qrcode": "2025-07-30T23:59:17Z",
+          "expiration_date_qrcode": "2025-07-31T00:02:17Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "5864edfb-5354-4d6b-a74a-0e7cd14be8be",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 792064,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825760964416",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/896f4970-c962-44ba-abff-e3e81a481fc95204821153039865406146.225802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***63040651",
+          "creation_date_qrcode": "2025-07-30T23:59:17Z",
+          "expiration_date_qrcode": "2025-07-31T00:02:17Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "5864edfb-5354-4d6b-a74a-0e7cd14be8be",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 792080,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 792371,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 792372,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 792373,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 792374,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1753969553,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 792375,
+      "key": "_wcpdf_invoice_date",
+      "value": "1753969553"
+    },
+    {
+      "id": 792376,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-07-31 09:45:53"
+    },
+    {
+      "id": 792377,
+      "key": "_wcpdf_invoice_number",
+      "value": "1064"
+    },
+    {
+      "id": 792378,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1064,
+        "formatted_number": "1064",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16346,
+        "padding": null
+      }
+    },
+    {
+      "id": 794369,
+      "key": "woe_order_exported",
+      "value": "1754402215"
+    },
+    {
+      "id": 794406,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799056,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57886,
+      "name": "Camiseta Manga Curta - 4",
+      "product_id": 3063,
+      "variation_id": 3065,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "46.00",
+      "subtotal_tax": "0.00",
+      "total": "46.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519424,
+          "key": "tamanho",
+          "value": "4",
+          "display_key": "Tamanho",
+          "display_value": "4"
+        },
+        {
+          "id": 519443,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "109305",
+      "global_unique_id": "",
+      "price": 46,
+      "image": {
+        "id": 3080,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Camiseta-Manga-Curta-ok-scaled-e1738865353123.jpg"
+      },
+      "parent_name": "Camiseta Manga Curta"
+    },
+    {
+      "id": 57887,
+      "name": "Calça de Malha Unissex - 4",
+      "product_id": 3020,
+      "variation_id": 3022,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "66.00",
+      "subtotal_tax": "0.00",
+      "total": "66.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519434,
+          "key": "tamanho",
+          "value": "4",
+          "display_key": "Tamanho",
+          "display_value": "4"
+        },
+        {
+          "id": 519444,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "109273",
+      "global_unique_id": "",
+      "price": 66,
+      "image": {
+        "id": 3037,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Calca-Malha-Unissex-ok-scaled.jpg"
+      },
+      "parent_name": "Calça de Malha Unissex"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57888,
+      "method_title": "Sedex - Até 15 dias úteis.",
+      "method_id": "loja5-correios-sedex-03220",
+      "instance_id": "49",
+      "total": "34.22",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519440,
+          "key": "prazo_correios",
+          "value": "2",
+          "display_key": "prazo_correios",
+          "display_value": "2"
+        },
+        {
+          "id": 519441,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 519442,
+          "key": "delivery_time",
+          "value": "(2 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(2 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16346/?pay_for_order=true&key=wc_order_ksJzVjWJkyYfn",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-07-31T02:59:15",
+  "date_modified_gmt": "2025-08-05T18:01:57",
+  "date_completed_gmt": "2025-08-05T18:01:57",
+  "date_paid_gmt": "2025-08-05T18:01:57",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16346",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16346/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/3410"
+      }
+    ]
+  }
+}

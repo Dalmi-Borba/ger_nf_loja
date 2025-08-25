@@ -1,0 +1,18 @@
+Projeto usa:
+
+pythom3
+node
+------------------------------------------------------
+Depende da api da loja online rodando
+
+------------------------------------------------------
+instalar os npm e pip
+
+pip install PyPDF2 pdfplumber
+pip install python-dotenv
+npm i
+
+
+Alterar a variável PATH no .env
+
+no arquivo python helpers/split_pdf.py alterar o INPUT_DIR e OUTPUT_FOLDER

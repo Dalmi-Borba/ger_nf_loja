@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8"/>
+  <meta name="viewport" content="width=device-width,initial-scale=1"/>
+  <title>Split PDF</title>
+  <link rel="stylesheet" href="/style.css"/>
+</head>
+<style>
+    body {
+        font-family: 'Open Sans', Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f4f4f4;
+        color: #333;
+    }
+
+    .center {
+        text-align: center;
+    }
+</style>
+<%- include('./partials/styles'); %>
+<body>
+  <header>
+    <span>Gerenciador de Notas Fiscais</span>
+    <%- include('./partials/nav'); %>
+  </header>
+  <br><br>
+  <div class="center">
+    <h1>Dividir PDF por NF-e</h1>
+
+    <% if (error) { %>
+      <p class="status error"><%= error %></p>
+    <% } %>
+
+    <form action="/split/split" method="post" enctype="multipart/form-data">
+      <input type="file" name="pdfFile" accept="application/pdf" required/>
+      <button type="submit">Enviar e Processar</button>
+    </form>
+
+    <% if (files) { %>
+      <p class="status success">Processamento concluído!</p>
+      <ul>
+        <% files.forEach(f => { %>
+          <a href="/split/public/<%= f %>" target="_blank"><%= f %></a><br>
+        <% }) %>
+      </ul>
+    <% } %>
+  </div>
+</body>
+</html>

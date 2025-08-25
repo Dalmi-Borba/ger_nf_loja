@@ -1,0 +1,498 @@
+{
+  "id": 16354,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-31T15:58:44",
+  "date_modified": "2025-08-05T14:44:25",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "999.00",
+  "total_tax": "0.00",
+  "customer_id": 80,
+  "order_key": "wc_order_TCYzoKDvMGizJ",
+  "billing": {
+    "first_name": "BENJAMIN",
+    "last_name": "MIGUEL",
+    "company": "",
+    "address_1": "Rua Elpidio nunes da cunha",
+    "address_2": "",
+    "city": "Campo Grande",
+    "state": "MS",
+    "postcode": "79032-490",
+    "country": "BR",
+    "email": "miguel.ocerg@gmail.com",
+    "phone": "(67) 99629-2454",
+    "number": "301",
+    "neighborhood": "Caranda Bosque",
+    "persontype": "F",
+    "cpf": "02494661129",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99629-2404"
+  },
+  "shipping": {
+    "first_name": "BENJAMIN",
+    "last_name": "MIGUEL",
+    "company": "",
+    "address_1": "Rua Elpidio nunes da cunha",
+    "address_2": "",
+    "city": "Campo Grande",
+    "state": "MS",
+    "postcode": "79032-490",
+    "country": "BR",
+    "phone": "",
+    "number": "301",
+    "neighborhood": "Caranda Bosque"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "201.91.66.115",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-05T14:44:25",
+  "date_paid": "2025-08-05T14:44:25",
+  "cart_hash": "80382a5c87b766dafaa5267ecae14f30",
+  "number": "16354",
+  "meta_data": [
+    {
+      "id": 792737,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 792738,
+      "key": "_billing_cpf",
+      "value": "024.946.611-29"
+    },
+    {
+      "id": 792739,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 792740,
+      "key": "_billing_neighborhood",
+      "value": "Caranda Bosque"
+    },
+    {
+      "id": 792741,
+      "key": "_billing_number",
+      "value": "301"
+    },
+    {
+      "id": 792742,
+      "key": "_billing_cellphone",
+      "value": "(67) 99629-2404"
+    },
+    {
+      "id": 792743,
+      "key": "_shipping_number",
+      "value": "301"
+    },
+    {
+      "id": 792744,
+      "key": "_shipping_neighborhood",
+      "value": "Caranda Bosque"
+    },
+    {
+      "id": 792745,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 792746,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 792747,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 792748,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 792749,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 792750,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 792751,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-31 19:15:59"
+    },
+    {
+      "id": 792752,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "14"
+    },
+    {
+      "id": 792753,
+      "key": "_wc_order_attribution_session_count",
+      "value": "2"
+    },
+    {
+      "id": 792754,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 792755,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    {
+      "id": 792756,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825761791158",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/0189a622-b127-4138-9c8d-792056e5cb495204821153039865406999.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***63046D9F",
+          "creation_date_qrcode": "2025-07-31T16:58:46Z",
+          "expiration_date_qrcode": "2025-07-31T17:01:46Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "7c1d530c-0820-4c04-b58c-3c2c7ef41c62",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 792757,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825761791158",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/0189a622-b127-4138-9c8d-792056e5cb495204821153039865406999.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***63046D9F",
+          "creation_date_qrcode": "2025-07-31T16:58:46Z",
+          "expiration_date_qrcode": "2025-07-31T17:01:46Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "7c1d530c-0820-4c04-b58c-3c2c7ef41c62",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 792758,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 793916,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 793917,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 793918,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 793919,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754399446,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 793920,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754399446"
+    },
+    {
+      "id": 793921,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-05 09:10:46"
+    },
+    {
+      "id": 793922,
+      "key": "_wcpdf_invoice_number",
+      "value": "1071"
+    },
+    {
+      "id": 793923,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1071,
+        "formatted_number": "1071",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16354,
+        "padding": null
+      }
+    },
+    {
+      "id": 794605,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799049,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57906,
+      "name": "SIE - Fundamental I - 4º Ano - 2º Semestre",
+      "product_id": 3478,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "297.00",
+      "subtotal_tax": "0.00",
+      "total": "297.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519669,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "8566",
+      "global_unique_id": "",
+      "price": 297,
+      "image": {
+        "id": "3490",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-2-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 57907,
+      "name": "SIE - Fundamental II - 6º Ano - 2º Semestre",
+      "product_id": 3545,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "492.00",
+      "subtotal_tax": "0.00",
+      "total": "492.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519670,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "11133",
+      "global_unique_id": "",
+      "price": 492,
+      "image": {
+        "id": "3556",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-4-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 57908,
+      "name": "Trampoline Collection - Vol. 3 (Bilíngue)",
+      "product_id": 3796,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "105.00",
+      "subtotal_tax": "0.00",
+      "total": "105.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519671,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108032",
+      "global_unique_id": "",
+      "price": 105,
+      "image": {
+        "id": "11930",
+        "src": "https://ntstorems.com.br/wp-content/uploads/trampoline_3.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 57909,
+      "name": "Trampoline Collection - Vol. 4 (Bilíngue)",
+      "product_id": 3797,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "105.00",
+      "subtotal_tax": "0.00",
+      "total": "105.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519672,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108034",
+      "global_unique_id": "",
+      "price": 105,
+      "image": {
+        "id": "11931",
+        "src": "https://ntstorems.com.br/wp-content/uploads/trampoline_4.png"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57910,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384.",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519668,
+          "key": "Itens",
+          "value": "SIE - Fundamental I - 4º Ano - 2º Semestre &times; 1, SIE - Fundamental II - 6º Ano - 2º Semestre &times; 1, Trampoline Collection - Vol. 3 (Bilíngue) &times; 1, Trampoline Collection - Vol. 4 (Bilíngue) &times; 1",
+          "display_key": "Itens",
+          "display_value": "SIE - Fundamental I - 4º Ano - 2º Semestre &times; 1, SIE - Fundamental II - 6º Ano - 2º Semestre &times; 1, Trampoline Collection - Vol. 3 (Bilíngue) &times; 1, Trampoline Collection - Vol. 4 (Bilíngue) &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16354/?pay_for_order=true&key=wc_order_TCYzoKDvMGizJ",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-07-31T19:58:44",
+  "date_modified_gmt": "2025-08-05T18:44:25",
+  "date_completed_gmt": "2025-08-05T18:44:25",
+  "date_paid_gmt": "2025-08-05T18:44:25",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16354",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16354/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/80"
+      }
+    ]
+  }
+}

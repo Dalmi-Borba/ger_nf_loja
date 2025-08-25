@@ -1,0 +1,416 @@
+{
+  "id": 16428,
+  "parent_id": 0,
+  "status": "cancelled",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-14T17:24:33",
+  "date_modified": "2025-08-18T10:27:23",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "25.04",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "52.04",
+  "total_tax": "0.00",
+  "customer_id": 3014,
+  "order_key": "wc_order_PtwAhOOqjUs2A",
+  "billing": {
+    "first_name": "Call",
+    "last_name": "Center",
+    "company": "UNIAO CENTRO OESTE BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA",
+    "address_1": "Avenida Doutor Gunter Hans, 1384",
+    "address_2": "Ponto de referência: Loja Novo Tempo Store",
+    "city": "Campo Grande",
+    "state": "MS",
+    "postcode": "79082-085",
+    "country": "BR",
+    "email": "ntstore.asm@gmail.com",
+    "phone": "(67) 99274-9628",
+    "number": "1384",
+    "neighborhood": "Jardim Leblon",
+    "persontype": "J",
+    "cpf": "07121135002",
+    "rg": "",
+    "cnpj": "07121135002360",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99274-9628"
+  },
+  "shipping": {
+    "first_name": "Call",
+    "last_name": "Center",
+    "company": "UNIAO CENTRO OESTE BRASILEIRA DA IGREJA ADVENTISTA DO SETIMO DIA",
+    "address_1": "Avenida Doutor Gunter Hans, 1384",
+    "address_2": "Ponto de referência: Loja Novo Tempo Store",
+    "city": "Campo Grande",
+    "state": "MS",
+    "postcode": "79082-085",
+    "country": "BR",
+    "phone": "",
+    "number": "1384",
+    "neighborhood": "Jardim Leblon"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "177.174.43.156",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": null,
+  "date_paid": null,
+  "cart_hash": "fa2690d1a1107c1b98d0f587fc42af9c",
+  "number": "16428",
+  "meta_data": [
+    {
+      "id": 797918,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 797963,
+      "key": "_billing_persontype",
+      "value": "2"
+    },
+    {
+      "id": 797964,
+      "key": "_billing_cpf",
+      "value": "071.211.350-02"
+    },
+    {
+      "id": 797965,
+      "key": "_billing_cnpj",
+      "value": "07.121.135/0023-60"
+    },
+    {
+      "id": 797966,
+      "key": "_billing_neighborhood",
+      "value": "Jardim Leblon"
+    },
+    {
+      "id": 797967,
+      "key": "_billing_number",
+      "value": "1384"
+    },
+    {
+      "id": 797968,
+      "key": "_billing_cellphone",
+      "value": "(67) 99274-9628"
+    },
+    {
+      "id": 797969,
+      "key": "_shipping_number",
+      "value": "1384"
+    },
+    {
+      "id": 797970,
+      "key": "_shipping_neighborhood",
+      "value": "Jardim Leblon"
+    },
+    {
+      "id": 797971,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 797972,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 797973,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 797974,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 797975,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 797976,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 797977,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 797978,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 797979,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-14 21:09:50"
+    },
+    {
+      "id": 797980,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "15"
+    },
+    {
+      "id": 797981,
+      "key": "_wc_order_attribution_session_count",
+      "value": "3"
+    },
+    {
+      "id": 797982,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36"
+    },
+    {
+      "id": 797983,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    {
+      "id": 797984,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825780179062",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/af79f1ce-39a1-476b-8819-459a5857f1d6520482115303986540552.045802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630493CF",
+          "creation_date_qrcode": "2025-08-14T18:24:47Z",
+          "expiration_date_qrcode": "2025-08-14T18:27:47Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "cfd0bc9d-5c0c-4d78-87ba-bc19491fb6c2",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 797985,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825780179062",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/af79f1ce-39a1-476b-8819-459a5857f1d6520482115303986540552.045802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630493CF",
+          "creation_date_qrcode": "2025-08-14T18:24:47Z",
+          "expiration_date_qrcode": "2025-08-14T18:27:47Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "cfd0bc9d-5c0c-4d78-87ba-bc19491fb6c2",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 797986,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 797987,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 797988,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 797989,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "single"
+    },
+    {
+      "id": 797990,
+      "key": "_wcpdf_invoice_date",
+      "value": "1755207125"
+    },
+    {
+      "id": 797991,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-14 17:32:05"
+    },
+    {
+      "id": 797992,
+      "key": "_wcpdf_invoice_number",
+      "value": "1121"
+    },
+    {
+      "id": 797993,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1121,
+        "formatted_number": "1121",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16428,
+        "padding": null
+      }
+    },
+    {
+      "id": 798998,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58112,
+      "name": "Bandeirim de Unidade Desbravador",
+      "product_id": 11166,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "27.00",
+      "subtotal_tax": "0.00",
+      "total": "27.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [],
+      "sku": "44",
+      "global_unique_id": "",
+      "price": 27,
+      "image": {
+        "id": "11167",
+        "src": "https://ntstorems.com.br/wp-content/uploads/download-2-2.jpeg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58113,
+      "method_title": "Sedex - Até 15 dias úteis",
+      "method_id": "loja5-correios-sedex-03220",
+      "instance_id": "51",
+      "total": "25.04",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 521587,
+          "key": "prazo_correios",
+          "value": "1",
+          "display_key": "prazo_correios",
+          "display_value": "1"
+        },
+        {
+          "id": 521588,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 521589,
+          "key": "delivery_time",
+          "value": "(1 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(1 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16428/?pay_for_order=true&key=wc_order_PtwAhOOqjUs2A",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-14T21:24:33",
+  "date_modified_gmt": "2025-08-18T14:27:23",
+  "date_completed_gmt": null,
+  "date_paid_gmt": null,
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16428",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16428/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/3014"
+      }
+    ]
+  }
+}

@@ -1,0 +1,504 @@
+{
+  "id": 16333,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-29T10:25:51",
+  "date_modified": "2025-07-31T09:20:44",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "44.97",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "833.97",
+  "total_tax": "0.00",
+  "customer_id": 3120,
+  "order_key": "wc_order_qaJCnax1mKwSi",
+  "billing": {
+    "first_name": "Jôice",
+    "last_name": "Borges",
+    "company": "",
+    "address_1": "Travessa São Jorge",
+    "address_2": "",
+    "city": "São Luís",
+    "state": "MA",
+    "postcode": "65046-802",
+    "country": "BR",
+    "email": "joiceborges777@gmail.com",
+    "phone": "(98) 98193-1499",
+    "number": "35",
+    "neighborhood": "Pão de Açúcar",
+    "persontype": "F",
+    "cpf": "01163872385",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(98) 98193-1499"
+  },
+  "shipping": {
+    "first_name": "Jôice",
+    "last_name": "Borges",
+    "company": "",
+    "address_1": "Travessa São Jorge",
+    "address_2": "",
+    "city": "São Luís",
+    "state": "MA",
+    "postcode": "65046-802",
+    "country": "BR",
+    "phone": "",
+    "number": "35",
+    "neighborhood": "Pão de Açúcar"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "181.191.89.206",
+  "customer_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-07-31T09:20:44",
+  "date_paid": "2025-07-31T09:20:44",
+  "cart_hash": "2e2a7b88249a8a2e04a73bf2d346f31d",
+  "number": "16333",
+  "meta_data": [
+    {
+      "id": 790960,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 790961,
+      "key": "_billing_cpf",
+      "value": "011.638.723-85"
+    },
+    {
+      "id": 790962,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 790963,
+      "key": "_billing_neighborhood",
+      "value": "Pão de Açúcar"
+    },
+    {
+      "id": 790964,
+      "key": "_billing_number",
+      "value": "35"
+    },
+    {
+      "id": 790965,
+      "key": "_billing_cellphone",
+      "value": "(98) 98193-1499"
+    },
+    {
+      "id": 790966,
+      "key": "_shipping_number",
+      "value": "35"
+    },
+    {
+      "id": 790967,
+      "key": "_shipping_neighborhood",
+      "value": "Pão de Açúcar"
+    },
+    {
+      "id": 790969,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 790970,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 790971,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 790972,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 790973,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 790974,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 790975,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 790976,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-07-29 14:18:57"
+    },
+    {
+      "id": 790977,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "10"
+    },
+    {
+      "id": 790978,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 790979,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:141.0) Gecko/20100101 Firefox/141.0"
+    },
+    {
+      "id": 790980,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Desktop"
+    },
+    {
+      "id": 790981,
+      "key": "erro_getnet",
+      "value": "0 - Problema ao criar o token do cartão junto a Getnet, acesse Woocommerce > Status > Logs, selecione e veja o log de debug Getnet!"
+    },
+    {
+      "id": 790982,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 790983,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 790984,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 83397,
+        "currency": "BRL",
+        "order_id": "16333",
+        "status": "APPROVED",
+        "payment_id": "76d47d12-d074-4f56-abd4-c3f1b23dad86",
+        "received_at": "2025-07-29T14:27:45.310Z",
+        "credit": {
+          "authorization_code": "507810820271129623",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "mastercard",
+          "terminal_nsu": "602151",
+          "acquirer_transaction_id": "000111802163",
+          "transaction_id": "507810820271129623",
+          "delayed": false,
+          "authorized_at": "2025-07-29T14:27:45Z"
+        }
+      }
+    },
+    {
+      "id": 790985,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "Joice C S Borges"
+    },
+    {
+      "id": 790986,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "01163872385"
+    },
+    {
+      "id": 790987,
+      "key": "_card_number",
+      "value": "522626****3735"
+    },
+    {
+      "id": 790988,
+      "key": "_card_bin",
+      "value": "522626****3735"
+    },
+    {
+      "id": 790989,
+      "key": "_card_year",
+      "value": "29"
+    },
+    {
+      "id": 790990,
+      "key": "_card_month",
+      "value": "10"
+    },
+    {
+      "id": 790991,
+      "key": "_card_name",
+      "value": "Joice C S Borges"
+    },
+    {
+      "id": 790992,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 791805,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 791806,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 791807,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 791808,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1753902519,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 791809,
+      "key": "_wcpdf_invoice_date",
+      "value": "1753902519"
+    },
+    {
+      "id": 791810,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-07-30 15:08:39"
+    },
+    {
+      "id": 791811,
+      "key": "_wcpdf_invoice_number",
+      "value": "1055"
+    },
+    {
+      "id": 791812,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1055,
+        "formatted_number": "1055",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16333,
+        "padding": null
+      }
+    },
+    {
+      "id": 792270,
+      "key": "woe_order_exported",
+      "value": "1753953402"
+    },
+    {
+      "id": 792271,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799069,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57846,
+      "name": "SIE - Fundamental II - 7º Ano - 2º Semestre",
+      "product_id": 3575,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "492.00",
+      "subtotal_tax": "0.00",
+      "total": "492.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519534,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "107066",
+      "global_unique_id": "",
+      "price": 492,
+      "image": {
+        "id": "3586",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-5-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 57847,
+      "name": "SIE - Fundamental I - 5º Ano - 2º Semestre",
+      "product_id": 3518,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "297.00",
+      "subtotal_tax": "0.00",
+      "total": "297.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 519535,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "10169",
+      "global_unique_id": "",
+      "price": 297,
+      "image": {
+        "id": "3530",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-3-scaled.jpg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57848,
+      "method_title": "PAC - Até 22 dias úteis",
+      "method_id": "loja5-correios-pac-03298",
+      "instance_id": "45",
+      "total": "44.97",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519099,
+          "key": "prazo_correios",
+          "value": "11",
+          "display_key": "prazo_correios",
+          "display_value": "11"
+        },
+        {
+          "id": 519100,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 519101,
+          "key": "delivery_time",
+          "value": "(11 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(11 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16333/?pay_for_order=true&key=wc_order_qaJCnax1mKwSi",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-07-29T14:25:51",
+  "date_modified_gmt": "2025-07-31T13:20:44",
+  "date_completed_gmt": "2025-07-31T13:20:44",
+  "date_paid_gmt": "2025-07-31T13:20:44",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16333",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16333/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/3120"
+      }
+    ]
+  }
+}

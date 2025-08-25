@@ -1,0 +1,144 @@
+<style>
+    body {
+        font-family: 'Open Sans', Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+        background: #f4f4f4;
+        color: #333;
+    }
+    
+    header {
+        background: #2c3e50;
+        color: white;
+        text-align: center;
+        padding: 5px;
+    }
+
+    header span {
+        font-size: 28px; /* Tamanho ajustado para harmonizar com o globo */
+        font-weight: bold;
+        letter-spacing: 1px; /* Pequeno espaçamento entre letras para melhor legibilidade */
+    }
+    
+    .container {
+        width: 90%;
+        margin: auto;
+        padding: 20px;
+        box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        background: white;
+    }
+    
+    .form {
+        background: #ecf0f1;
+        padding: 20px;
+        margin-bottom: 20px;
+        border-radius: 5px;
+    }
+    
+    input[type="file"] {
+        margin-bottom: 10px;
+    }
+    
+    button {
+        background-color: #3498db;
+        color: white;
+        border: none;
+        padding: 5px 10px;
+        cursor: pointer;
+        transition: background-color 0.3s;
+    }
+    
+    button:hover {
+        background-color: #2980b9;
+    }
+    
+    table {
+        border-collapse: collapse;
+        width: 100%;
+        margin-bottom: 20px;
+    }
+    
+    th, td {
+        text-align: left;
+        padding: 12px;
+        border-bottom: 1px solid #e7e7e7;
+    }
+    
+    th {
+        background-color: #3498db;
+        color: white;
+    }
+    
+    tr:hover {
+        background-color: #f5f5f5;
+    }
+    
+    a {
+        color: #3498db;
+        text-decoration: none;
+        margin: 0 15px;
+    }
+    
+    a:hover {
+        text-decoration: underline;
+    }
+
+    dialog {
+        border: none;
+        border-radius: 8px;
+        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        max-width: 400px;
+        width: 100%;
+    }
+
+    /* Fundo escurecido quando o modal está aberto */
+    dialog::backdrop {
+        background: rgba(0, 0, 0, 0.5);
+    }
+
+    /* Estilização do Globo */
+    .globe-container {
+        width: 80px; /* Tamanho ajustado para harmonizar com o texto */
+        height: 80px;
+        perspective: 1000px; /* Adiciona profundidade para o efeito 3D */
+        position: relative;
+    }
+
+    .globe-wrapper {
+        width: 100%;
+        height: 100%;
+        position: relative;
+        transform-style: preserve-3d;
+        animation: rotate 10s infinite linear; /* Animação de rotação */
+    }
+
+    .globe-front, .globe-back {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        backface-visibility: hidden; /* Oculta a parte de trás de cada face */
+    }
+
+    .globe-front img, .globe-back img {
+        width: 100%;
+        height: 100%;
+    }
+
+    .globe-back {
+        transform: rotateY(180deg); /* O verso é girado 180 graus para parecer correto */
+    }
+
+    @keyframes rotate {
+        from {
+            transform: rotateY(0deg);
+        }
+        to {
+            transform: rotateY(360deg);
+        }
+    }
+
+    .center {
+        text-align: center;
+    }
+</style>

@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Config</title>
+</head>
+<%- include('./partials/styles'); %>
+<body>
+    <header>
+        <span>Gerenciador de Notas Fiscais</span>
+        <%- include('./partials/nav'); %>
+    </header>
+
+    <div class="container">
+        <br><br>
+        <div class="center">
+            <form id="form" action="/reset-db" method="post">
+                <button type="submit"
+                        onclick="return confirm('Tem certeza que deseja zerar o banco de dados?');">
+                  ⚠️ Zerar Banco de Dados
+                </button>
+              </form>
+        </div>
+        <br><br>
+        <hr>
+        <div class="center">
+            <form id="form" action="/clear-public" method="post">
+                <button type="submit"
+                        onclick="return confirm('Tem certeza que deseja limpar a pasta de arquivos públicos?');">
+                  ⚠️ Limpar Pasta de Arquivos Públicos
+                </button>
+            </form>
+    </div>
+</body>
+</html>

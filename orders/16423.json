@@ -1,0 +1,466 @@
+{
+  "id": 16423,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-14T14:55:34",
+  "date_modified": "2025-08-20T11:04:43",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "34.22",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "148.22",
+  "total_tax": "0.00",
+  "customer_id": 998,
+  "order_key": "wc_order_UZMdB9gw7N8x8",
+  "billing": {
+    "first_name": "Aline Ramalho Marques",
+    "last_name": "Ramalho",
+    "company": "",
+    "address_1": "Rua Antônio Emílio de Figueiredo",
+    "address_2": "MX contabilidade",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79802-020",
+    "country": "BR",
+    "email": "ramalholilirl@gmail.com",
+    "phone": "(67) 99671-2342",
+    "number": "1407",
+    "neighborhood": "Centro",
+    "persontype": "F",
+    "cpf": "97851736153",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99671-2342"
+  },
+  "shipping": {
+    "first_name": "Aline Ramalho Marques",
+    "last_name": "Ramalho",
+    "company": "",
+    "address_1": "Rua Antônio Emílio de Figueiredo",
+    "address_2": "MX contabilidade",
+    "city": "Dourados",
+    "state": "MS",
+    "postcode": "79802-020",
+    "country": "BR",
+    "phone": "",
+    "number": "1407",
+    "neighborhood": "Centro"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "131.196.16.201",
+  "customer_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-20T11:04:43",
+  "date_paid": "2025-08-20T11:04:43",
+  "cart_hash": "4d955679e67f1de615fedc1065c309b6",
+  "number": "16423",
+  "meta_data": [
+    {
+      "id": 797589,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 797590,
+      "key": "_billing_cpf",
+      "value": "978.517.361-53"
+    },
+    {
+      "id": 797591,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 797592,
+      "key": "_billing_neighborhood",
+      "value": "Centro"
+    },
+    {
+      "id": 797593,
+      "key": "_billing_number",
+      "value": "1407"
+    },
+    {
+      "id": 797594,
+      "key": "_billing_cellphone",
+      "value": "(67) 99671-2342"
+    },
+    {
+      "id": 797595,
+      "key": "_shipping_number",
+      "value": "1407"
+    },
+    {
+      "id": 797596,
+      "key": "_shipping_neighborhood",
+      "value": "Centro"
+    },
+    {
+      "id": 797597,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 797598,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 797599,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 797600,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 797601,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 797602,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/conta/senha-perdida/?show-reset-form=true&action"
+    },
+    {
+      "id": 797603,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-14 18:33:57"
+    },
+    {
+      "id": 797604,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "14"
+    },
+    {
+      "id": 797605,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 797606,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_6_0 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/139.0.7258.76 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 797607,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 797608,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 797609,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 14822,
+        "currency": "BRL",
+        "order_id": "16423",
+        "status": "APPROVED",
+        "payment_id": "82579619-f74a-455f-9a57-a36a715c08a4",
+        "received_at": "2025-08-14T18:55:36.557Z",
+        "credit": {
+          "authorization_code": "508692365551514625",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "visa",
+          "terminal_nsu": "059711",
+          "acquirer_transaction_id": "000152797655",
+          "transaction_id": "508692365551514625",
+          "delayed": false,
+          "authorized_at": "2025-08-14T18:55:36Z"
+        }
+      }
+    },
+    {
+      "id": 797610,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "Aline Ramalho Marques"
+    },
+    {
+      "id": 797611,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "97851736153"
+    },
+    {
+      "id": 797612,
+      "key": "_card_number",
+      "value": "421844****3446"
+    },
+    {
+      "id": 797613,
+      "key": "_card_bin",
+      "value": "421844****3446"
+    },
+    {
+      "id": 797614,
+      "key": "_card_year",
+      "value": "33"
+    },
+    {
+      "id": 797615,
+      "key": "_card_month",
+      "value": "07"
+    },
+    {
+      "id": 797616,
+      "key": "_card_name",
+      "value": "Aline Ramalho Marques"
+    },
+    {
+      "id": 797617,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 798337,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 798338,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 798339,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 798340,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1755524880,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 798341,
+      "key": "_wcpdf_invoice_date",
+      "value": "1755524880"
+    },
+    {
+      "id": 798342,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-18 09:48:00"
+    },
+    {
+      "id": 798343,
+      "key": "_wcpdf_invoice_number",
+      "value": "1122"
+    },
+    {
+      "id": 798344,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1122,
+        "formatted_number": "1122",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16423,
+        "padding": null
+      }
+    },
+    {
+      "id": 798988,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    },
+    {
+      "id": 801840,
+      "key": "woe_order_exported",
+      "value": "1755687725"
+    },
+    {
+      "id": 801852,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58088,
+      "name": "Camiseta Manga Curta - M",
+      "product_id": 3063,
+      "variation_id": 3074,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "114.00",
+      "subtotal_tax": "0.00",
+      "total": "114.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521354,
+          "key": "tamanho",
+          "value": "M",
+          "display_key": "Tamanho",
+          "display_value": "M"
+        },
+        {
+          "id": 522124,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "108608",
+      "global_unique_id": "",
+      "price": 57,
+      "image": {
+        "id": 3080,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Camiseta-Manga-Curta-ok-scaled-e1738865353123.jpg"
+      },
+      "parent_name": "Camiseta Manga Curta"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58089,
+      "method_title": "Sedex - Até 15 dias úteis",
+      "method_id": "loja5-correios-sedex-03220",
+      "instance_id": "51",
+      "total": "34.22",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 521360,
+          "key": "prazo_correios",
+          "value": "1",
+          "display_key": "prazo_correios",
+          "display_value": "1"
+        },
+        {
+          "id": 521361,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 521362,
+          "key": "delivery_time",
+          "value": "(1 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(1 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16423/?pay_for_order=true&key=wc_order_UZMdB9gw7N8x8",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-14T18:55:34",
+  "date_modified_gmt": "2025-08-20T15:04:43",
+  "date_completed_gmt": "2025-08-20T15:04:43",
+  "date_paid_gmt": "2025-08-20T15:04:43",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16423",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16423/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/998"
+      }
+    ]
+  }
+}

@@ -1,0 +1,623 @@
+{
+  "id": 16438,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-19T20:53:38",
+  "date_modified": "2025-08-22T10:21:03",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "585.00",
+  "total_tax": "0.00",
+  "customer_id": 5319,
+  "order_key": "wc_order_PppXWSrUsvTHi",
+  "billing": {
+    "first_name": "Sara",
+    "last_name": "Inácio Dias Carrijo",
+    "company": "",
+    "address_1": "Rua Ozório Lemos da Silva",
+    "address_2": "",
+    "city": "Costa Rica",
+    "state": "MS",
+    "postcode": "79550-000",
+    "country": "BR",
+    "email": "saradias33@gmail.com",
+    "phone": "(67) 98142-2168",
+    "number": "751",
+    "neighborhood": "Jardim Buenos Aires",
+    "persontype": "F",
+    "cpf": "95296743172",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 98142-2168"
+  },
+  "shipping": {
+    "first_name": "Sara",
+    "last_name": "Inácio Dias Carrijo",
+    "company": "",
+    "address_1": "Rua Ozório Lemos da Silva",
+    "address_2": "",
+    "city": "Costa Rica",
+    "state": "MS",
+    "postcode": "79550-000",
+    "country": "BR",
+    "phone": "",
+    "number": "751",
+    "neighborhood": "Jardim Buenos Aires"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "45.236.181.243",
+  "customer_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-22T10:21:03",
+  "date_paid": "2025-08-22T10:21:03",
+  "cart_hash": "683ccaedcb59bdb8a8c3c902119b83bd",
+  "number": "16438",
+  "meta_data": [
+    {
+      "id": 798872,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 798873,
+      "key": "_billing_cpf",
+      "value": "952.967.431-72"
+    },
+    {
+      "id": 798874,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 798875,
+      "key": "_billing_neighborhood",
+      "value": "Jardim Buenos Aires"
+    },
+    {
+      "id": 798876,
+      "key": "_billing_number",
+      "value": "751"
+    },
+    {
+      "id": 798877,
+      "key": "_billing_cellphone",
+      "value": "(67) 98142-2168"
+    },
+    {
+      "id": 798878,
+      "key": "_shipping_number",
+      "value": "751"
+    },
+    {
+      "id": 798879,
+      "key": "_shipping_neighborhood",
+      "value": "Jardim Buenos Aires"
+    },
+    {
+      "id": 798880,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 798881,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 798882,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 798883,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 798884,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 798885,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 798886,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-20 00:22:33"
+    },
+    {
+      "id": 798887,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "56"
+    },
+    {
+      "id": 798888,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 798889,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 798890,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 798891,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 798892,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 58500,
+        "currency": "BRL",
+        "order_id": "16438",
+        "status": "APPROVED",
+        "payment_id": "51e77949-156b-4da5-91ed-2ca1c2664521",
+        "received_at": "2025-08-20T00:53:39.896Z",
+        "credit": {
+          "authorization_code": "508304249532119623",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "mastercard",
+          "terminal_nsu": "841200",
+          "acquirer_transaction_id": "000218563393",
+          "transaction_id": "508304249532119623",
+          "delayed": false,
+          "authorized_at": "2025-08-20T00:53:40Z"
+        }
+      }
+    },
+    {
+      "id": 798893,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "SARA I D CARRIJO"
+    },
+    {
+      "id": 798894,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "95296743172"
+    },
+    {
+      "id": 798895,
+      "key": "_card_number",
+      "value": "516292****1933"
+    },
+    {
+      "id": 798896,
+      "key": "_card_bin",
+      "value": "516292****1933"
+    },
+    {
+      "id": 798897,
+      "key": "_card_year",
+      "value": "30"
+    },
+    {
+      "id": 798898,
+      "key": "_card_month",
+      "value": "01"
+    },
+    {
+      "id": 798899,
+      "key": "_card_name",
+      "value": "SARA I D CARRIJO"
+    },
+    {
+      "id": 798900,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 798990,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    },
+    {
+      "id": 801832,
+      "key": "woe_order_exported",
+      "value": "1755687447"
+    },
+    {
+      "id": 801900,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 801901,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 801902,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 801903,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1755714042,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 801904,
+      "key": "_wcpdf_invoice_date",
+      "value": "1755714042"
+    },
+    {
+      "id": 801905,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-20 14:20:42"
+    },
+    {
+      "id": 801906,
+      "key": "_wcpdf_invoice_number",
+      "value": "1130"
+    },
+    {
+      "id": 801907,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1130,
+        "formatted_number": "1130",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16438,
+        "padding": null
+      }
+    },
+    {
+      "id": 802068,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58156,
+      "name": "Tecido Para Uniforme Caqui (Metro)",
+      "product_id": 8553,
+      "variation_id": 0,
+      "quantity": 10,
+      "tax_class": "",
+      "subtotal": "350.00",
+      "subtotal_tax": "0.00",
+      "total": "350.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522173,
+          "key": "_reduced_stock",
+          "value": "10",
+          "display_key": "_reduced_stock",
+          "display_value": "10"
+        }
+      ],
+      "sku": "61610",
+      "global_unique_id": "",
+      "price": 35,
+      "image": {
+        "id": "8554",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/08/tecido-caqui.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58157,
+      "name": "Tecido Para Uniforme Verde (Metro)",
+      "product_id": 8551,
+      "variation_id": 0,
+      "quantity": 6,
+      "tax_class": "",
+      "subtotal": "210.00",
+      "subtotal_tax": "0.00",
+      "total": "210.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522174,
+          "key": "_reduced_stock",
+          "value": "6",
+          "display_key": "_reduced_stock",
+          "display_value": "6"
+        }
+      ],
+      "sku": "61612",
+      "global_unique_id": "",
+      "price": 35,
+      "image": {
+        "id": "8552",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/08/e09239735a.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58158,
+      "name": "Cartão de classes Desbravadores - AMIGO",
+      "product_id": 8613,
+      "variation_id": 8616,
+      "quantity": 10,
+      "tax_class": "",
+      "subtotal": "10.00",
+      "subtotal_tax": "0.00",
+      "total": "10.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522053,
+          "key": "pa_classes-dbv",
+          "value": "amigo",
+          "display_key": "Classes DBV",
+          "display_value": "AMIGO"
+        },
+        {
+          "id": 522175,
+          "key": "_reduced_stock",
+          "value": "10",
+          "display_key": "_reduced_stock",
+          "display_value": "10"
+        }
+      ],
+      "sku": "1994",
+      "global_unique_id": "",
+      "price": 1,
+      "image": {
+        "id": 8623,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/09/0043edd59e.jpg"
+      },
+      "parent_name": "Cartão de classes Desbravadores"
+    },
+    {
+      "id": 58159,
+      "name": "Cartão de classes Desbravadores - COMPANHEIRO",
+      "product_id": 8613,
+      "variation_id": 8617,
+      "quantity": 5,
+      "tax_class": "",
+      "subtotal": "5.00",
+      "subtotal_tax": "0.00",
+      "total": "5.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522063,
+          "key": "pa_classes-dbv",
+          "value": "companheiro",
+          "display_key": "Classes DBV",
+          "display_value": "COMPANHEIRO"
+        },
+        {
+          "id": 522176,
+          "key": "_reduced_stock",
+          "value": "5",
+          "display_key": "_reduced_stock",
+          "display_value": "5"
+        }
+      ],
+      "sku": "1986",
+      "global_unique_id": "",
+      "price": 1,
+      "image": {
+        "id": 8626,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/09/fa18c72237.jpg"
+      },
+      "parent_name": "Cartão de classes Desbravadores"
+    },
+    {
+      "id": 58160,
+      "name": "Cartão de classes Desbravadores - PESQUISADOR",
+      "product_id": 8613,
+      "variation_id": 8620,
+      "quantity": 5,
+      "tax_class": "",
+      "subtotal": "5.00",
+      "subtotal_tax": "0.00",
+      "total": "5.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522073,
+          "key": "pa_classes-dbv",
+          "value": "pesquisador",
+          "display_key": "Classes DBV",
+          "display_value": "PESQUISADOR"
+        },
+        {
+          "id": 522177,
+          "key": "_reduced_stock",
+          "value": "5",
+          "display_key": "_reduced_stock",
+          "display_value": "5"
+        }
+      ],
+      "sku": "2437",
+      "global_unique_id": "",
+      "price": 1,
+      "image": {
+        "id": 8627,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/09/60aca97963.jpg"
+      },
+      "parent_name": "Cartão de classes Desbravadores"
+    },
+    {
+      "id": 58161,
+      "name": "Cartão de classes Desbravadores - PIONEIRO",
+      "product_id": 8613,
+      "variation_id": 8621,
+      "quantity": 5,
+      "tax_class": "",
+      "subtotal": "5.00",
+      "subtotal_tax": "0.00",
+      "total": "5.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 522083,
+          "key": "pa_classes-dbv",
+          "value": "pioneiro",
+          "display_key": "Classes DBV",
+          "display_value": "PIONEIRO"
+        },
+        {
+          "id": 522178,
+          "key": "_reduced_stock",
+          "value": "5",
+          "display_key": "_reduced_stock",
+          "display_value": "5"
+        }
+      ],
+      "sku": "2438",
+      "global_unique_id": "",
+      "price": 1,
+      "image": {
+        "id": 8622,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/09/ee5539ddb8.jpg"
+      },
+      "parent_name": "Cartão de classes Desbravadores"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58162,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 522089,
+          "key": "Itens",
+          "value": "Tecido Para Uniforme Caqui (Metro) &times; 10, Tecido Para Uniforme Verde (Metro) &times; 6, Cartão de classes Desbravadores - AMIGO &times; 10, Cartão de classes Desbravadores - COMPANHEIRO &times; 5, Cartão de classes Desbravadores - PESQUISADOR &times; 5, Cartão de classes Desbravadores - PIONEIRO &times; 5",
+          "display_key": "Itens",
+          "display_value": "Tecido Para Uniforme Caqui (Metro) &times; 10, Tecido Para Uniforme Verde (Metro) &times; 6, Cartão de classes Desbravadores - AMIGO &times; 10, Cartão de classes Desbravadores - COMPANHEIRO &times; 5, Cartão de classes Desbravadores - PESQUISADOR &times; 5, Cartão de classes Desbravadores - PIONEIRO &times; 5"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16438/?pay_for_order=true&key=wc_order_PppXWSrUsvTHi",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-20T00:53:38",
+  "date_modified_gmt": "2025-08-22T14:21:03",
+  "date_completed_gmt": "2025-08-22T14:21:03",
+  "date_paid_gmt": "2025-08-22T14:21:03",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16438",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16438/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/5319"
+      }
+    ]
+  }
+}

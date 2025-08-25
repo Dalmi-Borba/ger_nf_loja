@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>WooCommerce</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+            font-family: 'Open Sans', Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+            color: #333;
+        }
+        .center { text-align: center; }
+      
+    .container{max-width:900px;margin:40px auto;padding:20px;background:#fff;border-radius:8px;box-shadow:0 4px 12px rgba(0,0,0,0.05);}
+    h1{font-size:2rem;margin-bottom:20px;color:#2c3e50;}
+    .banner{padding:12px;margin-bottom:20px;border-radius:4px;}
+    .banner.success{background:#e8f8f5;color:#27ae60;border:1px solid #2ecc71;}
+    .banner.error{background:#fdecea;color:#c0392b;border:1px solid #e74c3c;}
+    .forms{display:flex;gap:20px;flex-wrap:wrap;margin-bottom:30px;}
+    .card{flex:1;min-width:200px;background:#fafafa;padding:20px;border-radius:6px;border:1px solid #e0e0e0;}
+    .card h2{margin-bottom:10px;color:#34495e;font-size:1.2rem;}
+    label{display:block;margin:10px 0 4px;font-size:.95rem;}
+    input[type=number]{width:100%;padding:8px;border:1px solid #ccc;border-radius:4px;}
+    button{padding:10px 16px;font-size:.95rem;color:#fff;border:none;border-radius:4px;cursor:pointer;transition:background .3s;}
+    .primary{background:#3498db;} .primary:hover{background:#2980b9;}
+    .delete{background:#e74c3c;} .delete:hover{background:#c0392b;}
+    .lists{display:grid;grid-template-columns:repeat(auto-fill,minmax(300px,1fr));gap:20px;}
+    .list-card{background:#fafafa;padding:16px;border-radius:6px;border:1px solid #e0e0e0;}
+    .list-card h3{margin-bottom:10px;color:#2c3e50;font-size:1.1rem;}
+    .list-card ul{list-style:none;max-height:200px;overflow-y:auto;padding:0;}
+    .list-card li{margin-bottom:6px;}
+    .list-card a{color:#3498db;text-decoration:none;font-size:.9rem;}
+    .list-card a:hover{text-decoration:underline;}
+    .select-all{margin-bottom:10px;display:flex;align-items:center;}
+    .select-all input{margin-right:8px;}
+  </style>
+</head>
+<%- include('./partials/styles'); %>
+<body>
+  <header>
+    <span>Gerenciador de Notas Fiscais</span>
+    <%- include('./partials/nav'); %>
+  </header>
+  
+  <div class="container">
+    <h1>WooCommerce</h1>
+    <% if (message) { %>
+      <div class="banner success"><%= message %></div>
+    <% } %>
+    <% if (error) { %>
+      <div class="banner error"><%= error %></div>
+    <% } %>
+
+    <div class="forms">
+      <div class="card">
+        <h2>Buscar Pedidos</h2>
+        <form action="/woo/fetch" method="post">
+          <label>ID Mínimo:</label>
+          <input type="number" name="min" required>
+          <label>ID Máximo:</label>
+          <input type="number" name="max" required>
+          <button type="submit" class="primary">Buscar</button>
+        </form>
+      </div>
+      <div class="card">
+        <h2>Gerar PDFs</h2>
+        <form action="/woo/generate" method="post">
+          <button type="submit" class="primary">Gerar Todos</button>
+        </form>
+      </div>
+      <div class="card">
+        <h2>Limpar Cache</h2>
+        <form action="/woo/cache/delete" method="post" onsubmit="return confirm('Apagar cache.json?');">
+          <button type="submit" class="delete">Apagar Cache</button>
+        </form>
+      </div>
+    </div>
+
+    <div class="lists">
+      <div class="list-card">
+        <h3>Pedidos (JSON)</h3>
+        <div class="select-all">
+          <input type="checkbox" id="selectAll" onchange="toggleAll(this)">
+          <label for="selectAll">Selecionar Todos</label>
+        </div>
+        <form action="/woo/orders/delete" method="post" onsubmit="return confirm('Apagar selecionados?');">
+          <ul>
+            <% if (orderFiles.length) { %>
+              <% orderFiles.forEach(f => { %>
+                <li>
+                  <label>
+                    <input type="checkbox" name="toDelete" value="<%= f %>"><%= f %>
+                  </label>
+                </li>
+              <% }) %>
+            <% } else { %>
+              <li>(nenhum)</li>
+            <% } %>
+          </ul>
+          <button type="submit" class="delete">Apagar Selecionados</button>
+        </form>
+        <form action="/woo/orders/delete-all" method="post" onsubmit="return confirm('Apagar todos os JSON de pedidos?');">
+          <button type="submit" class="delete" style="margin-top:10px;">Apagar Todos</button>
+        </form>
+      </div>
+
+      <div class="list-card">
+        <h3>PDFs Gerados</h3>
+        <ul>
+          <% if (pdfFiles.length) { %>
+            <% pdfFiles.forEach(f => { %>
+              <li><a href="/woo/pdfs/<%= f %>" target="_blank"><%= f %></a></li>
+            <% }) %>
+          <% } else { %>
+            <li>(nenhum)</li>
+          <% } %>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <script>
+    function toggleAll(source) {
+      document.querySelectorAll('input[name="toDelete"]').forEach(cb => cb.checked = source.checked);
+    }
+  </script>
+</body>
+</html>

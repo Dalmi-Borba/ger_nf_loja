@@ -1,0 +1,690 @@
+{
+  "id": 16409,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-10T18:00:42",
+  "date_modified": "2025-08-13T14:52:59",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "1454.00",
+  "total_tax": "0.00",
+  "customer_id": 3306,
+  "order_key": "wc_order_4bCSunoL8tr4g",
+  "billing": {
+    "first_name": "Gustavo",
+    "last_name": "Rocha",
+    "company": "",
+    "address_1": "Avenida José Lopez",
+    "address_2": "Casa",
+    "city": "Nova Andradina",
+    "state": "MS",
+    "postcode": "79756-162",
+    "country": "BR",
+    "email": "gustavomrocha31@icloud.com",
+    "phone": "(67) 99303-6484",
+    "number": "2321",
+    "neighborhood": "Monte Carlo",
+    "persontype": "F",
+    "cpf": "01529385164",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99303-6484"
+  },
+  "shipping": {
+    "first_name": "Gustavo",
+    "last_name": "Rocha",
+    "company": "",
+    "address_1": "Avenida José Lopez",
+    "address_2": "Casa",
+    "city": "Nova Andradina",
+    "state": "MS",
+    "postcode": "79756-162",
+    "country": "BR",
+    "phone": "",
+    "number": "2321",
+    "neighborhood": "Monte Carlo"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "191.56.59.65",
+  "customer_user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-13T14:52:59",
+  "date_paid": "2025-08-13T14:52:59",
+  "cart_hash": "6a0bf404fd96be9d4c2e2c77fcb9051a",
+  "number": "16409",
+  "meta_data": [
+    {
+      "id": 796480,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 796481,
+      "key": "_billing_cpf",
+      "value": "015.293.851-64"
+    },
+    {
+      "id": 796482,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 796483,
+      "key": "_billing_neighborhood",
+      "value": "Monte Carlo"
+    },
+    {
+      "id": 796484,
+      "key": "_billing_number",
+      "value": "2321"
+    },
+    {
+      "id": 796485,
+      "key": "_billing_cellphone",
+      "value": "(67) 99303-6484"
+    },
+    {
+      "id": 796486,
+      "key": "_shipping_number",
+      "value": "2321"
+    },
+    {
+      "id": 796487,
+      "key": "_shipping_neighborhood",
+      "value": "Monte Carlo"
+    },
+    {
+      "id": 796488,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 796489,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 796490,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 796491,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 796492,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 796493,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 796494,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-10 15:46:52"
+    },
+    {
+      "id": 796495,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "30"
+    },
+    {
+      "id": 796496,
+      "key": "_wc_order_attribution_session_count",
+      "value": "3"
+    },
+    {
+      "id": 796497,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (iPhone; CPU iPhone OS 18_5 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.5 Mobile/15E148 Safari/604.1"
+    },
+    {
+      "id": 796498,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 796499,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825775367747",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/c7041cc4-85f7-4963-9fb2-27433626e15a52048211530398654071454.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***6304E103",
+          "creation_date_qrcode": "2025-08-10T19:00:47Z",
+          "expiration_date_qrcode": "2025-08-10T19:03:47Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "c83d7d29-8e60-4644-900e-252631ee6de7",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 796500,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825775367747",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/c7041cc4-85f7-4963-9fb2-27433626e15a52048211530398654071454.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***6304E103",
+          "creation_date_qrcode": "2025-08-10T19:00:47Z",
+          "expiration_date_qrcode": "2025-08-10T19:03:47Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "c83d7d29-8e60-4644-900e-252631ee6de7",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 796536,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 796648,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 796649,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 796650,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 796651,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754916969,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 796652,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754916969"
+    },
+    {
+      "id": 796653,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-11 08:56:09"
+    },
+    {
+      "id": 796654,
+      "key": "_wcpdf_invoice_number",
+      "value": "1109"
+    },
+    {
+      "id": 796655,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1109,
+        "formatted_number": "1109",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16409,
+        "padding": null
+      }
+    },
+    {
+      "id": 797295,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799010,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58044,
+      "name": "Bermuda de Malha Unissex - Ens. Fund. e Médio - 14",
+      "product_id": 3151,
+      "variation_id": 3158,
+      "quantity": 3,
+      "tax_class": "",
+      "subtotal": "195.00",
+      "subtotal_tax": "0.00",
+      "total": "195.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520910,
+          "key": "tamanho",
+          "value": "14",
+          "display_key": "Tamanho",
+          "display_value": "14"
+        },
+        {
+          "id": 520994,
+          "key": "_reduced_stock",
+          "value": "3",
+          "display_key": "_reduced_stock",
+          "display_value": "3"
+        }
+      ],
+      "sku": "108662",
+      "global_unique_id": "",
+      "price": 65,
+      "image": {
+        "id": 3168,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/bermuda-malha-1-scaled.jpg"
+      },
+      "parent_name": "Bermuda de Malha Unissex - Ens. Fund. e Médio"
+    },
+    {
+      "id": 58045,
+      "name": "Calça de Malha Unissex - 14",
+      "product_id": 3020,
+      "variation_id": 3027,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "166.00",
+      "subtotal_tax": "0.00",
+      "total": "166.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520920,
+          "key": "tamanho",
+          "value": "14",
+          "display_key": "Tamanho",
+          "display_value": "14"
+        },
+        {
+          "id": 520995,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "108554",
+      "global_unique_id": "",
+      "price": 83,
+      "image": {
+        "id": 3037,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Calca-Malha-Unissex-ok-scaled.jpg"
+      },
+      "parent_name": "Calça de Malha Unissex"
+    },
+    {
+      "id": 58046,
+      "name": "Calça de Malha Unissex - P",
+      "product_id": 3020,
+      "variation_id": 3030,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "99.00",
+      "subtotal_tax": "0.00",
+      "total": "99.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520930,
+          "key": "tamanho",
+          "value": "P",
+          "display_key": "Tamanho",
+          "display_value": "P"
+        },
+        {
+          "id": 520996,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108558",
+      "global_unique_id": "",
+      "price": 99,
+      "image": {
+        "id": 3037,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Calca-Malha-Unissex-ok-scaled.jpg"
+      },
+      "parent_name": "Calça de Malha Unissex"
+    },
+    {
+      "id": 58047,
+      "name": "Camiseta Manga Longa - 14",
+      "product_id": 3087,
+      "variation_id": 3094,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "114.00",
+      "subtotal_tax": "0.00",
+      "total": "114.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520940,
+          "key": "tamanho",
+          "value": "14",
+          "display_key": "Tamanho",
+          "display_value": "14"
+        },
+        {
+          "id": 520997,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "108627",
+      "global_unique_id": "",
+      "price": 57,
+      "image": {
+        "id": 3104,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Cam.-ML-1-scaled.jpg"
+      },
+      "parent_name": "Camiseta Manga Longa"
+    },
+    {
+      "id": 58048,
+      "name": "Camiseta Manga Curta - 14",
+      "product_id": 3063,
+      "variation_id": 3070,
+      "quantity": 3,
+      "tax_class": "",
+      "subtotal": "153.00",
+      "subtotal_tax": "0.00",
+      "total": "153.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520950,
+          "key": "tamanho",
+          "value": "14",
+          "display_key": "Tamanho",
+          "display_value": "14"
+        },
+        {
+          "id": 520998,
+          "key": "_reduced_stock",
+          "value": "3",
+          "display_key": "_reduced_stock",
+          "display_value": "3"
+        }
+      ],
+      "sku": "108604",
+      "global_unique_id": "",
+      "price": 51,
+      "image": {
+        "id": 3080,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Camiseta-Manga-Curta-ok-scaled-e1738865353123.jpg"
+      },
+      "parent_name": "Camiseta Manga Curta"
+    },
+    {
+      "id": 58049,
+      "name": "Ens. Religioso - 5º Ano (Interagir e Crescer)",
+      "product_id": 3519,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "120.00",
+      "subtotal_tax": "0.00",
+      "total": "120.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520999,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "4469",
+      "global_unique_id": "",
+      "price": 120,
+      "image": {
+        "id": "3539",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/religiao-2-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58050,
+      "name": "Língua Inglesa - 5º Ano (Interagir e Crescer)",
+      "product_id": 3520,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "140.00",
+      "subtotal_tax": "0.00",
+      "total": "140.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521000,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "4481",
+      "global_unique_id": "",
+      "price": 140,
+      "image": {
+        "id": "3535",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/ingles-2-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58051,
+      "name": "SIE - Fundamental I - 5º Ano - 2º Semestre",
+      "product_id": 3518,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "297.00",
+      "subtotal_tax": "0.00",
+      "total": "297.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521001,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "10169",
+      "global_unique_id": "",
+      "price": 297,
+      "image": {
+        "id": "3530",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-3-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58052,
+      "name": "Blusão Moletom - 14",
+      "product_id": 2947,
+      "variation_id": 2954,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "170.00",
+      "subtotal_tax": "0.00",
+      "total": "170.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520987,
+          "key": "pa_tamanho",
+          "value": "14",
+          "display_key": "Tamanho",
+          "display_value": "14"
+        },
+        {
+          "id": 521002,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108521",
+      "global_unique_id": "",
+      "price": 170,
+      "image": {
+        "id": 3016,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Blusao-Moletom-ok-scaled.jpg"
+      },
+      "parent_name": "Blusão Moletom"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58053,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 520993,
+          "key": "Itens",
+          "value": "Bermuda de Malha Unissex - Ens. Fund. e Médio - 14 &times; 3, Calça de Malha Unissex - 14 &times; 2, Calça de Malha Unissex - P &times; 1, Camiseta Manga Longa - 14 &times; 2, Camiseta Manga Curta - 14 &times; 3, Ens. Religioso - 5º Ano (Interagir e Crescer) &times; 1, Língua Inglesa - 5º Ano (Interagir e Crescer) &times; 1, SIE - Fundamental I - 5º Ano - 2º Semestre &times; 1, Blusão Moletom - 14 &times; 1",
+          "display_key": "Itens",
+          "display_value": "Bermuda de Malha Unissex - Ens. Fund. e Médio - 14 &times; 3, Calça de Malha Unissex - 14 &times; 2, Calça de Malha Unissex - P &times; 1, Camiseta Manga Longa - 14 &times; 2, Camiseta Manga Curta - 14 &times; 3, Ens. Religioso - 5º Ano (Interagir e Crescer) &times; 1, Língua Inglesa - 5º Ano (Interagir e Crescer) &times; 1, SIE - Fundamental I - 5º Ano - 2º Semestre &times; 1, Blusão Moletom - 14 &times; 1"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16409/?pay_for_order=true&key=wc_order_4bCSunoL8tr4g",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-10T22:00:42",
+  "date_modified_gmt": "2025-08-13T18:52:59",
+  "date_completed_gmt": "2025-08-13T18:52:59",
+  "date_paid_gmt": "2025-08-13T18:52:59",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16409",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16409/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/3306"
+      }
+    ]
+  }
+}

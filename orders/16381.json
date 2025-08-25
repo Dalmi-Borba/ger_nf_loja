@@ -1,0 +1,581 @@
+{
+  "id": 16381,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-05T18:05:06",
+  "date_modified": "2025-08-13T15:52:25",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "27.70",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "417.70",
+  "total_tax": "0.00",
+  "customer_id": 5272,
+  "order_key": "wc_order_C4iUURZPGfJnC",
+  "billing": {
+    "first_name": "Mariza",
+    "last_name": "Teixeira de Souza",
+    "company": "",
+    "address_1": "Rua França",
+    "address_2": "",
+    "city": "Miranda",
+    "state": "MS",
+    "postcode": "79380-000",
+    "country": "BR",
+    "email": "tmariza00@gmail.com",
+    "phone": "(67) 99664-9062",
+    "number": "130",
+    "neighborhood": "Jardim Europa",
+    "persontype": "F",
+    "cpf": "00505346109",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99664-9062"
+  },
+  "shipping": {
+    "first_name": "Jaqueline",
+    "last_name": "Barbosa",
+    "company": "Escola adventista",
+    "address_1": "Rua Dr Alexandre",
+    "address_2": "",
+    "city": "Miranda",
+    "state": "MS",
+    "postcode": "79380-000",
+    "country": "BR",
+    "phone": "",
+    "number": "Sn",
+    "neighborhood": "Centro"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "45.188.182.73",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-13T15:52:25",
+  "date_paid": "2025-08-13T15:52:25",
+  "cart_hash": "4d055bcdcc282347548467d65dc05e28",
+  "number": "16381",
+  "meta_data": [
+    {
+      "id": 794777,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 794778,
+      "key": "_billing_cpf",
+      "value": "005.053.461-09"
+    },
+    {
+      "id": 794779,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 794780,
+      "key": "_billing_neighborhood",
+      "value": "Jardim Europa"
+    },
+    {
+      "id": 794781,
+      "key": "_billing_number",
+      "value": "130"
+    },
+    {
+      "id": 794782,
+      "key": "_billing_cellphone",
+      "value": "(67) 99664-9062"
+    },
+    {
+      "id": 794783,
+      "key": "_shipping_number",
+      "value": "Sn"
+    },
+    {
+      "id": 794784,
+      "key": "_shipping_neighborhood",
+      "value": "Centro"
+    },
+    {
+      "id": 794785,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 794786,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 794787,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "shipping": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 794788,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 794789,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 794790,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 794791,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 794792,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 794793,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-05 21:55:46"
+    },
+    {
+      "id": 794794,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "23"
+    },
+    {
+      "id": 794795,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 794796,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 794797,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 794798,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 794799,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 41770,
+        "currency": "BRL",
+        "order_id": "16381",
+        "status": "APPROVED",
+        "payment_id": "078f85ce-d3de-4e4f-981f-b86e8e43e7ea",
+        "received_at": "2025-08-05T22:05:08.802Z",
+        "credit": {
+          "authorization_code": "508971034051905561",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "visa",
+          "terminal_nsu": "650925",
+          "acquirer_transaction_id": "000195302151",
+          "transaction_id": "508971034051905561",
+          "delayed": false,
+          "authorized_at": "2025-08-05T22:05:09Z"
+        }
+      }
+    },
+    {
+      "id": 794800,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "Mariza Teixeira"
+    },
+    {
+      "id": 794801,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "00505346109"
+    },
+    {
+      "id": 794802,
+      "key": "_card_number",
+      "value": "453211****7430"
+    },
+    {
+      "id": 794803,
+      "key": "_card_bin",
+      "value": "453211****7430"
+    },
+    {
+      "id": 794804,
+      "key": "_card_year",
+      "value": "26"
+    },
+    {
+      "id": 794805,
+      "key": "_card_month",
+      "value": "01"
+    },
+    {
+      "id": 794806,
+      "key": "_card_name",
+      "value": "Mariza Teixeira"
+    },
+    {
+      "id": 794807,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 795151,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 795152,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 795153,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 795154,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754507180,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 795155,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754507180"
+    },
+    {
+      "id": 795156,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-06 15:06:20"
+    },
+    {
+      "id": 795157,
+      "key": "_wcpdf_invoice_number",
+      "value": "1090"
+    },
+    {
+      "id": 795158,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1090,
+        "formatted_number": "1090",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16381,
+        "padding": null
+      }
+    },
+    {
+      "id": 797333,
+      "key": "woe_order_exported",
+      "value": "1755098826"
+    },
+    {
+      "id": 797340,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799026,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57960,
+      "name": "SIE - Educ. Infantil - 4 Anos - 2° Semestre",
+      "product_id": 3304,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "217.00",
+      "subtotal_tax": "0.00",
+      "total": "217.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521276,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "8345",
+      "global_unique_id": "",
+      "price": 217,
+      "image": {
+        "id": "3342",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/2-semestre-1-scaled.jpg"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 57961,
+      "name": "Camiseta Sem Manga - Ens. Fundamental - 10",
+      "product_id": 3114,
+      "variation_id": 3119,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "51.00",
+      "subtotal_tax": "0.00",
+      "total": "51.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520135,
+          "key": "tamanho",
+          "value": "10",
+          "display_key": "Tamanho",
+          "display_value": "10"
+        },
+        {
+          "id": 521277,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108640",
+      "global_unique_id": "",
+      "price": 51,
+      "image": {
+        "id": 3133,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Camiseta-sem-Manga-1-scaled.jpg"
+      },
+      "parent_name": "Camiseta Sem Manga - Ens. Fundamental"
+    },
+    {
+      "id": 57962,
+      "name": "Bermuda de Malha Unissex - Ens. Fund. e Médio - 10",
+      "product_id": 3151,
+      "variation_id": 3156,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "65.00",
+      "subtotal_tax": "0.00",
+      "total": "65.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520145,
+          "key": "tamanho",
+          "value": "10",
+          "display_key": "Tamanho",
+          "display_value": "10"
+        },
+        {
+          "id": 521278,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108661",
+      "global_unique_id": "",
+      "price": 65,
+      "image": {
+        "id": 3168,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/bermuda-malha-1-scaled.jpg"
+      },
+      "parent_name": "Bermuda de Malha Unissex - Ens. Fund. e Médio"
+    },
+    {
+      "id": 57963,
+      "name": "Camiseta Manga Longa - 10",
+      "product_id": 3087,
+      "variation_id": 3092,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "57.00",
+      "subtotal_tax": "0.00",
+      "total": "57.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520155,
+          "key": "tamanho",
+          "value": "10",
+          "display_key": "Tamanho",
+          "display_value": "10"
+        },
+        {
+          "id": 521279,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "108622",
+      "global_unique_id": "",
+      "price": 57,
+      "image": {
+        "id": 3104,
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/08/Cam.-ML-1-scaled.jpg"
+      },
+      "parent_name": "Camiseta Manga Longa"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57964,
+      "method_title": "PAC - Até 22 dias úteis.",
+      "method_id": "loja5-correios-pac-03298",
+      "instance_id": "45",
+      "total": "27.70",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 520161,
+          "key": "prazo_correios",
+          "value": "9",
+          "display_key": "prazo_correios",
+          "display_value": "9"
+        },
+        {
+          "id": 520162,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 520163,
+          "key": "delivery_time",
+          "value": "(9 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(9 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16381/?pay_for_order=true&key=wc_order_C4iUURZPGfJnC",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-05T22:05:06",
+  "date_modified_gmt": "2025-08-13T19:52:25",
+  "date_completed_gmt": "2025-08-13T19:52:25",
+  "date_paid_gmt": "2025-08-13T19:52:25",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16381",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16381/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/5272"
+      }
+    ]
+  }
+}

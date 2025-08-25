@@ -1,0 +1,469 @@
+{
+  "id": 16359,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-07-31T20:20:20",
+  "date_modified": "2025-08-05T14:06:21",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "28.96",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "325.96",
+  "total_tax": "0.00",
+  "customer_id": 1332,
+  "order_key": "wc_order_ZrHocXWHHpOX2",
+  "billing": {
+    "first_name": "Thauane Cristina",
+    "last_name": "Aguilar Gonçalves",
+    "company": "",
+    "address_1": "Rua Travessa dos Cedros",
+    "address_2": "Casa",
+    "city": "Miranda",
+    "state": "MS",
+    "postcode": "79380-000",
+    "country": "BR",
+    "email": "thauaneaguilar@gmail.com",
+    "phone": "(67) 99635-0604",
+    "number": "84",
+    "neighborhood": "Santa Cruz",
+    "persontype": "F",
+    "cpf": "05123756159",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99635-0604"
+  },
+  "shipping": {
+    "first_name": "Thauane Cristina",
+    "last_name": "Aguilar Gonçalves",
+    "company": "",
+    "address_1": "Rua Travessa dos Cedros",
+    "address_2": "Casa",
+    "city": "Miranda",
+    "state": "MS",
+    "postcode": "79380-000",
+    "country": "BR",
+    "phone": "",
+    "number": "84",
+    "neighborhood": "Santa Cruz"
+  },
+  "payment_method": "loja5_woo_getnet_api",
+  "payment_method_title": "Cartão de Crédito",
+  "transaction_id": "",
+  "customer_ip_address": "45.173.165.165",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-05T14:06:21",
+  "date_paid": "2025-08-05T14:06:21",
+  "cart_hash": "bf4ade2295c3021d965c390069c4a13b",
+  "number": "16359",
+  "meta_data": [
+    {
+      "id": 793077,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 793078,
+      "key": "_billing_cpf",
+      "value": "051.237.561-59"
+    },
+    {
+      "id": 793079,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 793080,
+      "key": "_billing_neighborhood",
+      "value": "Santa Cruz"
+    },
+    {
+      "id": 793081,
+      "key": "_billing_number",
+      "value": "84"
+    },
+    {
+      "id": 793082,
+      "key": "_billing_cellphone",
+      "value": "(67) 99635-0604"
+    },
+    {
+      "id": 793083,
+      "key": "_shipping_number",
+      "value": "84"
+    },
+    {
+      "id": 793084,
+      "key": "_shipping_neighborhood",
+      "value": "Santa Cruz"
+    },
+    {
+      "id": 793085,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 793086,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 793087,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 793088,
+      "key": "_wc_order_attribution_source_type",
+      "value": "organic"
+    },
+    {
+      "id": 793089,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://www.google.com/"
+    },
+    {
+      "id": 793090,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "google"
+    },
+    {
+      "id": 793091,
+      "key": "_wc_order_attribution_utm_medium",
+      "value": "organic"
+    },
+    {
+      "id": 793092,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/"
+    },
+    {
+      "id": 793093,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-01 00:15:24"
+    },
+    {
+      "id": 793094,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "4"
+    },
+    {
+      "id": 793095,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 793096,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 793097,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 793098,
+      "key": "_tentativar_getnet_api",
+      "value": "1"
+    },
+    {
+      "id": 793099,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "seller_id": "11761b65-1a7d-471f-9019-f89f4388d17b",
+        "amount": 32596,
+        "currency": "BRL",
+        "order_id": "16359",
+        "status": "APPROVED",
+        "payment_id": "b9e3991b-6159-4c9f-993d-e109cb5ef5e4",
+        "received_at": "2025-08-01T00:20:22.212Z",
+        "credit": {
+          "authorization_code": "507757470202131625",
+          "reason_code": "00",
+          "reason_message": "transaction approved",
+          "acquirer": "GETNET",
+          "soft_descriptor": "NTSTOREMS",
+          "brand": "elo",
+          "terminal_nsu": "912618",
+          "acquirer_transaction_id": "000219543665",
+          "transaction_id": "507757470202131625",
+          "delayed": false,
+          "authorized_at": "2025-08-01T00:20:22Z"
+        }
+      }
+    },
+    {
+      "id": 793100,
+      "key": "_loja5_woo_getnet_api_titular",
+      "value": "Herminia Santos"
+    },
+    {
+      "id": 793101,
+      "key": "_loja5_woo_getnet_api_fiscal",
+      "value": "05123756159"
+    },
+    {
+      "id": 793102,
+      "key": "_card_number",
+      "value": "650597****7653"
+    },
+    {
+      "id": 793103,
+      "key": "_card_bin",
+      "value": "650597****7653"
+    },
+    {
+      "id": 793104,
+      "key": "_card_year",
+      "value": "31"
+    },
+    {
+      "id": 793105,
+      "key": "_card_month",
+      "value": "08"
+    },
+    {
+      "id": 793106,
+      "key": "_card_name",
+      "value": "Herminia Santos"
+    },
+    {
+      "id": 793107,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 793956,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 793957,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 793958,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "bulk"
+    },
+    {
+      "id": 793959,
+      "key": "_wcpdf_invoice_printed",
+      "value": {
+        "date": 1754399446,
+        "trigger": "bulk"
+      }
+    },
+    {
+      "id": 793960,
+      "key": "_wcpdf_invoice_date",
+      "value": "1754399446"
+    },
+    {
+      "id": 793961,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-05 09:10:46"
+    },
+    {
+      "id": 793962,
+      "key": "_wcpdf_invoice_number",
+      "value": "1076"
+    },
+    {
+      "id": 793963,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1076,
+        "formatted_number": "1076",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16359,
+        "padding": null
+      }
+    },
+    {
+      "id": 794501,
+      "key": "woe_order_exported",
+      "value": "1754402731"
+    },
+    {
+      "id": 794520,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    },
+    {
+      "id": 799044,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 57920,
+      "name": "SIE - Fundamental I - 5º Ano - 2º Semestre",
+      "product_id": 3518,
+      "variation_id": 0,
+      "quantity": 1,
+      "tax_class": "",
+      "subtotal": "297.00",
+      "subtotal_tax": "0.00",
+      "total": "297.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 520076,
+          "key": "_reduced_stock",
+          "value": "1",
+          "display_key": "_reduced_stock",
+          "display_value": "1"
+        }
+      ],
+      "sku": "10169",
+      "global_unique_id": "",
+      "price": 297,
+      "image": {
+        "id": "3530",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2021/09/2-sem-3-scaled.jpg"
+      },
+      "parent_name": null
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 57921,
+      "method_title": "PAC - Até 22 dias úteis.",
+      "method_id": "loja5-correios-pac-03298",
+      "instance_id": "45",
+      "total": "28.96",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 519767,
+          "key": "prazo_correios",
+          "value": "9",
+          "display_key": "prazo_correios",
+          "display_value": "9"
+        },
+        {
+          "id": 519768,
+          "key": "offline",
+          "value": "nao",
+          "display_key": "offline",
+          "display_value": "nao"
+        },
+        {
+          "id": 519769,
+          "key": "delivery_time",
+          "value": "(9 dias úteis)",
+          "display_key": "delivery_time",
+          "display_value": "(9 dias úteis)"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16359/?pay_for_order=true&key=wc_order_ZrHocXWHHpOX2",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-01T00:20:20",
+  "date_modified_gmt": "2025-08-05T18:06:21",
+  "date_completed_gmt": "2025-08-05T18:06:21",
+  "date_paid_gmt": "2025-08-05T18:06:21",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16359",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16359/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/1332"
+      }
+    ]
+  }
+}

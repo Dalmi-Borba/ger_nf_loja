@@ -1,0 +1,558 @@
+{
+  "id": 16420,
+  "parent_id": 0,
+  "status": "completed",
+  "currency": "BRL",
+  "version": "10.0.4",
+  "prices_include_tax": false,
+  "date_created": "2025-08-13T16:29:16",
+  "date_modified": "2025-08-20T11:04:41",
+  "discount_total": "0.00",
+  "discount_tax": "0.00",
+  "shipping_total": "0.00",
+  "shipping_tax": "0.00",
+  "cart_tax": "0.00",
+  "total": "436.00",
+  "total_tax": "0.00",
+  "customer_id": 3069,
+  "order_key": "wc_order_X1VV8x8bCvQBl",
+  "billing": {
+    "first_name": "Ludinéia",
+    "last_name": "Almeida de Ávila",
+    "company": "",
+    "address_1": "Rua Alcindo Franco Machado",
+    "address_2": "Casa",
+    "city": "Amambai",
+    "state": "MS",
+    "postcode": "79990-000",
+    "country": "BR",
+    "email": "ludineiaavila@gmail.com",
+    "phone": "(67) 99149-0002",
+    "number": "1090",
+    "neighborhood": "Marechal Rondon",
+    "persontype": "F",
+    "cpf": "02269417100",
+    "rg": "",
+    "cnpj": "",
+    "ie": "",
+    "birthdate": "",
+    "gender": "",
+    "cellphone": "(67) 99149-0002"
+  },
+  "shipping": {
+    "first_name": "Ludinéia",
+    "last_name": "Almeida de Ávila",
+    "company": "",
+    "address_1": "Rua Alcindo Franco Machado",
+    "address_2": "Casa",
+    "city": "Amambai",
+    "state": "MS",
+    "postcode": "79990-000",
+    "country": "BR",
+    "phone": "",
+    "number": "1090",
+    "neighborhood": "Marechal Rondon"
+  },
+  "payment_method": "loja5_woo_getnet_api_pix",
+  "payment_method_title": "Pix",
+  "transaction_id": "",
+  "customer_ip_address": "189.113.49.165",
+  "customer_user_agent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36",
+  "created_via": "checkout",
+  "customer_note": "",
+  "date_completed": "2025-08-20T11:04:41",
+  "date_paid": "2025-08-20T11:04:41",
+  "cart_hash": "6e754c0642d6ce28642f72c2ae83f92b",
+  "number": "16420",
+  "meta_data": [
+    {
+      "id": 797483,
+      "key": "_billing_persontype",
+      "value": "1"
+    },
+    {
+      "id": 797484,
+      "key": "_billing_cpf",
+      "value": "022.694.171-00"
+    },
+    {
+      "id": 797485,
+      "key": "_billing_cnpj",
+      "value": ""
+    },
+    {
+      "id": 797486,
+      "key": "_billing_neighborhood",
+      "value": "Marechal Rondon"
+    },
+    {
+      "id": 797487,
+      "key": "_billing_number",
+      "value": "1090"
+    },
+    {
+      "id": 797488,
+      "key": "_billing_cellphone",
+      "value": "(67) 99149-0002"
+    },
+    {
+      "id": 797489,
+      "key": "_shipping_number",
+      "value": "1090"
+    },
+    {
+      "id": 797490,
+      "key": "_shipping_neighborhood",
+      "value": "Marechal Rondon"
+    },
+    {
+      "id": 797491,
+      "key": "is_vat_exempt",
+      "value": "no"
+    },
+    {
+      "id": 797492,
+      "key": "_order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+      "value": "Yes"
+    },
+    {
+      "id": 797493,
+      "key": "_awcfe_order_meta_key",
+      "value": {
+        "billing": [],
+        "order": [
+          {
+            "type": "checkbox",
+            "meta_id": false,
+            "name": "order_li_e_concordo_com_a_poltica_e_privacidade_do_site",
+            "label": "Li e concordo com a Política e Privacidade do site",
+            "value": "Yes",
+            "priority": "30",
+            "col": 6,
+            "show_in_email": true,
+            "show_in_order_page": true
+          }
+        ],
+        "account": []
+      }
+    },
+    {
+      "id": 797494,
+      "key": "_wc_order_attribution_source_type",
+      "value": "typein"
+    },
+    {
+      "id": 797495,
+      "key": "_wc_order_attribution_referrer",
+      "value": "https://ntstorems.com.br/conta/"
+    },
+    {
+      "id": 797496,
+      "key": "_wc_order_attribution_utm_source",
+      "value": "(direct)"
+    },
+    {
+      "id": 797497,
+      "key": "_wc_order_attribution_session_entry",
+      "value": "https://ntstorems.com.br/conta/pedidos/"
+    },
+    {
+      "id": 797498,
+      "key": "_wc_order_attribution_session_start_time",
+      "value": "2025-08-13 20:22:09"
+    },
+    {
+      "id": 797499,
+      "key": "_wc_order_attribution_session_pages",
+      "value": "15"
+    },
+    {
+      "id": 797500,
+      "key": "_wc_order_attribution_session_count",
+      "value": "1"
+    },
+    {
+      "id": 797501,
+      "key": "_wc_order_attribution_user_agent",
+      "value": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Mobile Safari/537.36"
+    },
+    {
+      "id": 797502,
+      "key": "_wc_order_attribution_device_type",
+      "value": "Mobile"
+    },
+    {
+      "id": 797503,
+      "key": "_loja5_woo_getnet_api_dados_pix",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825778834060",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/151022a3-0792-4106-a47d-cdda02a09c765204821153039865406436.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630489C0",
+          "creation_date_qrcode": "2025-08-13T17:29:18Z",
+          "expiration_date_qrcode": "2025-08-13T17:32:18Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "423dd2a0-38c8-47c8-81b4-4f4f9d475359",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 797504,
+      "key": "_loja5_woo_getnet_api_dados",
+      "value": {
+        "additional_data": {
+          "transaction_id": "06001000000007763825778834060",
+          "qr_code": "00020101021226850014br.gov.bcb.pix2563pix.santander.com.br/qr/v2/151022a3-0792-4106-a47d-cdda02a09c765204821153039865406436.005802BR5925SERVICO EDUCACIONAL LAR E6012CAMPO GRANDE62070503***630489C0",
+          "creation_date_qrcode": "2025-08-13T17:29:18Z",
+          "expiration_date_qrcode": "2025-08-13T17:32:18Z",
+          "psp_code": "0033"
+        },
+        "payment_id": "423dd2a0-38c8-47c8-81b4-4f4f9d475359",
+        "is_split": false,
+        "description": "O QR Code foi gerado com sucesso e aguardando o pagamento. (81).",
+        "status": "WAITING"
+      }
+    },
+    {
+      "id": 797512,
+      "key": "_ga_tracked",
+      "value": "1"
+    },
+    {
+      "id": 797526,
+      "key": "woe_order_exported",
+      "value": "1755169579"
+    },
+    {
+      "id": 797527,
+      "key": "_wcpdf_invoice_settings",
+      "value": {
+        "display_shipping_address": "always",
+        "display_email": "1",
+        "display_phone": "1",
+        "display_customer_notes": "1",
+        "display_date": "invoice_date",
+        "due_date": "",
+        "mark_printed": [
+          "bulk"
+        ],
+        "unmark_printed": "1",
+        "header_logo": "",
+        "header_logo_height": "",
+        "vat_number": "",
+        "coc_number": "",
+        "shop_name": "",
+        "shop_phone_number": "",
+        "shop_email_address": "",
+        "shop_address_line_1": "",
+        "shop_address_line_2": "",
+        "shop_address_country": "",
+        "shop_address_state": "",
+        "shop_address_city": "",
+        "shop_address_postcode": "",
+        "shop_address_additional": "",
+        "footer": "",
+        "extra_1": "",
+        "extra_2": "",
+        "extra_3": ""
+      }
+    },
+    {
+      "id": 797528,
+      "key": "_wcpdf_invoice_display_date",
+      "value": "document_date"
+    },
+    {
+      "id": 797529,
+      "key": "_wcpdf_invoice_creation_trigger",
+      "value": "single"
+    },
+    {
+      "id": 797530,
+      "key": "_wcpdf_invoice_date",
+      "value": "1755184009"
+    },
+    {
+      "id": 797531,
+      "key": "_wcpdf_invoice_date_formatted",
+      "value": "2025-08-14 11:06:49"
+    },
+    {
+      "id": 797532,
+      "key": "_wcpdf_invoice_number",
+      "value": "1117"
+    },
+    {
+      "id": 797533,
+      "key": "_wcpdf_invoice_number_data",
+      "value": {
+        "number": 1117,
+        "formatted_number": "1117",
+        "prefix": "",
+        "suffix": "",
+        "document_type": "invoice",
+        "order_id": 16420,
+        "padding": null
+      }
+    },
+    {
+      "id": 799001,
+      "key": "wf_order_exported_status",
+      "value": "1"
+    },
+    {
+      "id": 801847,
+      "key": "_wpb_vc_editor_type",
+      "value": "classic"
+    }
+  ],
+  "line_items": [
+    {
+      "id": 58082,
+      "name": "Bandeira do Brasil Bordada Para Faixa",
+      "product_id": 8654,
+      "variation_id": 0,
+      "quantity": 23,
+      "tax_class": "",
+      "subtotal": "69.00",
+      "subtotal_tax": "0.00",
+      "total": "69.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521340,
+          "key": "_reduced_stock",
+          "value": "23",
+          "display_key": "_reduced_stock",
+          "display_value": "23"
+        }
+      ],
+      "sku": "43",
+      "global_unique_id": "",
+      "price": 3,
+      "image": {
+        "id": "8655",
+        "src": "https://ntstorems.com.br/wp-content/uploads/2023/09/patch-bordado-micro-bandeira-camaroes-2x3-cm-cod-mbp1-01-2023-07-26-09-43-52-926x926-1.png"
+      },
+      "parent_name": null
+    },
+    {
+      "id": 58083,
+      "name": "Emblema Globinho e Globão Desbravadores - GLOBÃO CAQUI",
+      "product_id": 8647,
+      "variation_id": 8651,
+      "quantity": 21,
+      "tax_class": "",
+      "subtotal": "147.00",
+      "subtotal_tax": "0.00",
+      "total": "147.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521303,
+          "key": "pa_emblema-globos",
+          "value": "globao-caqui",
+          "display_key": "emblema globos",
+          "display_value": "GLOBÃO CAQUI"
+        },
+        {
+          "id": 521341,
+          "key": "_reduced_stock",
+          "value": "21",
+          "display_key": "_reduced_stock",
+          "display_value": "21"
+        }
+      ],
+      "sku": "59117",
+      "global_unique_id": "",
+      "price": 7,
+      "image": {
+        "id": 11199,
+        "src": "https://ntstorems.com.br/wp-content/uploads/cac.jpeg"
+      },
+      "parent_name": "Emblema Globinho e Globão Desbravadores"
+    },
+    {
+      "id": 58084,
+      "name": "Emblema Globinho e Globão Desbravadores - GLOBÃO BRANCO",
+      "product_id": 8647,
+      "variation_id": 11195,
+      "quantity": 3,
+      "tax_class": "",
+      "subtotal": "21.00",
+      "subtotal_tax": "0.00",
+      "total": "21.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521313,
+          "key": "pa_emblema-globos",
+          "value": "globao-branco-2",
+          "display_key": "emblema globos",
+          "display_value": "GLOBÃO BRANCO"
+        },
+        {
+          "id": 521342,
+          "key": "_reduced_stock",
+          "value": "3",
+          "display_key": "_reduced_stock",
+          "display_value": "3"
+        }
+      ],
+      "sku": "59116",
+      "global_unique_id": "",
+      "price": 7,
+      "image": {
+        "id": 11198,
+        "src": "https://ntstorems.com.br/wp-content/uploads/branco.jpeg"
+      },
+      "parent_name": "Emblema Globinho e Globão Desbravadores"
+    },
+    {
+      "id": 58085,
+      "name": "Faixa Desbravador - M",
+      "product_id": 11160,
+      "variation_id": 11162,
+      "quantity": 11,
+      "tax_class": "",
+      "subtotal": "165.00",
+      "subtotal_tax": "0.00",
+      "total": "165.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521323,
+          "key": "tamanho-faixa",
+          "value": "M",
+          "display_key": "Tamanho Faixa",
+          "display_value": "M"
+        },
+        {
+          "id": 521343,
+          "key": "_reduced_stock",
+          "value": "11",
+          "display_key": "_reduced_stock",
+          "display_value": "11"
+        }
+      ],
+      "sku": "107",
+      "global_unique_id": "",
+      "price": 15,
+      "image": {
+        "id": 11165,
+        "src": "https://ntstorems.com.br/wp-content/uploads/download-2.png"
+      },
+      "parent_name": "Faixa Desbravador"
+    },
+    {
+      "id": 58086,
+      "name": "Faixa Desbravador - G",
+      "product_id": 11160,
+      "variation_id": 11163,
+      "quantity": 2,
+      "tax_class": "",
+      "subtotal": "34.00",
+      "subtotal_tax": "0.00",
+      "total": "34.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "meta_data": [
+        {
+          "id": 521333,
+          "key": "tamanho-faixa",
+          "value": "G",
+          "display_key": "Tamanho Faixa",
+          "display_value": "G"
+        },
+        {
+          "id": 521344,
+          "key": "_reduced_stock",
+          "value": "2",
+          "display_key": "_reduced_stock",
+          "display_value": "2"
+        }
+      ],
+      "sku": "106",
+      "global_unique_id": "",
+      "price": 17,
+      "image": {
+        "id": 11165,
+        "src": "https://ntstorems.com.br/wp-content/uploads/download-2.png"
+      },
+      "parent_name": "Faixa Desbravador"
+    }
+  ],
+  "tax_lines": [],
+  "shipping_lines": [
+    {
+      "id": 58087,
+      "method_title": "Retirar na loja 5* dias úteis após o pedido ter sido feito. - Av. Gunter Hans, 1384",
+      "method_id": "local_pickup",
+      "instance_id": "48",
+      "total": "0.00",
+      "total_tax": "0.00",
+      "taxes": [],
+      "tax_status": "taxable",
+      "meta_data": [
+        {
+          "id": 521339,
+          "key": "Itens",
+          "value": "Bandeira do Brasil Bordada Para Faixa &times; 23, Emblema Globinho e Globão Desbravadores - GLOBÃO CAQUI &times; 21, Emblema Globinho e Globão Desbravadores - GLOBÃO BRANCO &times; 3, Faixa Desbravador - M &times; 11, Faixa Desbravador - G &times; 2",
+          "display_key": "Itens",
+          "display_value": "Bandeira do Brasil Bordada Para Faixa &times; 23, Emblema Globinho e Globão Desbravadores - GLOBÃO CAQUI &times; 21, Emblema Globinho e Globão Desbravadores - GLOBÃO BRANCO &times; 3, Faixa Desbravador - M &times; 11, Faixa Desbravador - G &times; 2"
+        }
+      ]
+    }
+  ],
+  "fee_lines": [],
+  "coupon_lines": [],
+  "refunds": [],
+  "payment_url": "https://ntstorems.com.br/checkout/pagar/16420/?pay_for_order=true&key=wc_order_X1VV8x8bCvQBl",
+  "is_editable": false,
+  "needs_payment": false,
+  "needs_processing": true,
+  "date_created_gmt": "2025-08-13T20:29:16",
+  "date_modified_gmt": "2025-08-20T15:04:41",
+  "date_completed_gmt": "2025-08-20T15:04:41",
+  "date_paid_gmt": "2025-08-20T15:04:41",
+  "correios_tracking_code": "",
+  "currency_symbol": "R$",
+  "_links": {
+    "self": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16420",
+        "targetHints": {
+          "allow": [
+            "GET",
+            "POST",
+            "PUT",
+            "PATCH",
+            "DELETE"
+          ]
+        }
+      }
+    ],
+    "collection": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders"
+      }
+    ],
+    "email_templates": [
+      {
+        "embeddable": true,
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/orders/16420/actions/email_templates"
+      }
+    ],
+    "customer": [
+      {
+        "href": "https://ntstorems.com.br/wp-json/wc/v3/customers/3069"
+      }
+    ]
+  }
+}
