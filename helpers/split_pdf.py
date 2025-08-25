@@ -5,8 +5,8 @@ import PyPDF2
 import pdfplumber
 
 # Diretórios
-INPUT_DIR    = r"C:\Dev\PROJETOS - NT STORE - LOJA\denario_acs\public"
-OUTPUT_FOLDER = r"C:\Dev\PROJETOS - NT STORE - LOJA\denario_acs\public"
+INPUT_DIR    = r"/home/asm/ger_nf_loja/public/"
+OUTPUT_FOLDER = r"/home/asm/ger_nf_loja/public/"
 
 
 # Encontra todos os PDFs que comecem com "split_"
