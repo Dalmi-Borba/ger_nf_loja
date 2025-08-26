@@ -1,4 +1,4 @@
-
+//routes/index.js
 const express = require('express');
 const multer = require('multer');
 const upload = require('../multer');

@@ -46,7 +46,6 @@
             conteudo += `nota;historico;` + '\n';
             notas.forEach(nota => {
                 //Vda 548192 - 20/01/2025 - NF-e. 20220-1 E12341
-                //Pedido;CPF/CNPJ;AUT;Data
                 //conteudo += `Vda ${nota.aut_card} - ${nota.data_criacao_pedido} - NF-e. ${nota.numero_nota} E${nota.order_id}` + '\n';
                 conteudo += `${nota.numero_nota};${nota.historico};` + '\n';
             });
