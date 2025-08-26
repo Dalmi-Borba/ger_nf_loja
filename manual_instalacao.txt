@@ -1,18 +1,7 @@
 Projeto usa:
 
-pythom3
-node
-------------------------------------------------------
-Depende da api da loja online rodando
-
-------------------------------------------------------
-instalar os npm e pip
-
-pip install PyPDF2 pdfplumber
-pip install python-dotenv
-npm i
+//para o puppeteer funcionar corretamente, instale o chromium:
+sudo apt install -y chromium-browser || sudo apt install -y chromium
 
 
-Alterar a variável PATH no .env
-
-no arquivo python helpers/split_pdf.py alterar o INPUT_DIR e OUTPUT_FOLDER
+[O projeto não usa mais python]

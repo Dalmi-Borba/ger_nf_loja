@@ -1,6 +1,7 @@
 const puppeteer = require('puppeteer');
 const fs = require('fs').promises;
 const path = require('path');
+const { head } = require('../routes');
 
 const ORDERS_DIR = 'orders';
 const OUTPUT_DIR = 'public';
@@ -211,7 +212,14 @@ const generateAllPDFs = async () => {
   const jsonFiles = files.filter(file => file.endsWith('.json'));
   console.log(`Encontrados ${jsonFiles.length} arquivos JSON na pasta ${ORDERS_DIR}`);
 
-  const browser = await puppeteer.launch({ headless: true });
+  //const browser = await puppeteer.launch({ headless: true });
+  const browser = await puppeteer.launch({
+    headless: true,
+    executablePath: '/usr/bin/chromium-browser', // ou `which chromium`
+    headless: 'new',
+    args: ['--no-sandbox', '--disable-setuid-sandbox']
+  });
+
   const skippedOrders = [];
   const generatedPdfs = [];
 
