@@ -3,7 +3,13 @@ require('dotenv').config()
 
 
 module.exports = async function generatePDFOrder(numero_nota, id_extrato) {
-    const browser = await puppeteer.launch();
+    //const browser = await puppeteer.launch();
+    const browser = await puppeteer.launch({
+        executablePath: '/usr/bin/chromium-browser', // ou `which chromium`
+        headless: 'new',
+        args: ['--no-sandbox', '--disable-setuid-sandbox']
+    });
+
     const page = await browser.newPage();
 
 
